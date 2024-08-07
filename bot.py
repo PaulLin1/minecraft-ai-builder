@@ -1,41 +1,57 @@
+from skills import *
+from gpt import *
 from javascript import require, On
+import math
 mineflayer = require('mineflayer')
 pathfinder = require('mineflayer-pathfinder')
 
-BOT_USERNAME = 'python'
+class BuilderBot:
+    def __init__(self):
+        """
+        Initializes a bot in minecraft
+        """
+        self.playerName = 'xj0hnx'
+        self.bot = mineflayer.createBot(
+            {
+                'host': '127.0.0.1',
+                'port': 53858,
+                'username': 'python'
+            }
+        )
+        print("Started mineflayer")
 
-settings = {
-  'host': '127.0.0.1',
-  'port': 53858,
-  'username': BOT_USERNAME
-}
+        self.setup_listeners()
 
-bot = mineflayer.createBot(settings)
-bot.loadPlugin(pathfinder.pathfinder)
-print("Started mineflayer")
+    def setup_listeners(self):
+        @On(self.bot, 'spawn')
+        def handle_spawn(*args):
+            """
+            Spawns the bot
+            """
+            print("I spawned 👋")
+            self.client = GPT()
 
-@On(bot, 'spawn')
-def handle(*args):
-    print("I spawned 👋")
-    movements = pathfinder.Movements(bot)
+            if self.playerName in self.bot.players:
+                self.bot.chat('/tp @s ' + self.playerName)
+            else:
+                print(f"{self.playerName} is not online or the bot hasn't received their position yet.")
 
-    @On(bot, 'chat')
-    def handleMsg(this, sender, message, *args):
-        print("Got message", sender, message)
-        if sender and (sender != BOT_USERNAME):
-            bot.chat('Hi, you said ' + message)
-            if 'come' in message:
-                player = bot.players[sender]
-                print("Target", player)
-                target = player.entity
-                if not target:
-                    bot.chat("I don't see you !")
-                    return
+            @On(self.bot, 'chat')
+            def on_chat(this, sender, message, *args):
+                """
+                Handles chats
+                :param sender: The sender of the message
+                :param message: The message that got sent
+                """
+                if sender and (sender != self.bot.username):
+                    if 'build' in message:
+                        bot = self.bot
+                        response = self.client.send_to_llm(message)
+                        print(response)
+                        exec(response)
+                    elif 'come' == message:
+                        self.bot.chat('/tp @s ' + self.playerName)
 
-                pos = target.position
-                bot.pathfinder.setMovements(movements)
-                bot.pathfinder.setGoal(pathfinder.goals.GoalNear(pos.x, pos.y, pos.z, 1))
-
-@On(bot, "end")
-def handle(*args):
-    print("Bot ended!", args)
+            @On(self.bot, 'end')
+            def on_end(*args):
+                print("Bot ended!", args)

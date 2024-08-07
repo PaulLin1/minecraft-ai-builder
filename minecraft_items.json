@@ -1,0 +1,4678 @@
+[
+  {
+    "block_name": " Creeper Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"creeper\"}}}"
+  },
+  {
+    "block_name": " Skeleton Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"skeleton\"}}}"
+  },
+  {
+    "block_name": " Spider Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"spider\"}}}"
+  },
+  {
+    "block_name": " Giant Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"giant\"}}}"
+  },
+  {
+    "block_name": " Zombie Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"zombie\"}}}"
+  },
+  {
+    "block_name": " Slime Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"slime\"}}}"
+  },
+  {
+    "block_name": " Ghast Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"ghast\"}}}"
+  },
+  {
+    "block_name": " Pig Zombie Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"zombie_pigman\"}}}"
+  },
+  {
+    "block_name": " Enderman Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"enderman\"}}}"
+  },
+  {
+    "block_name": " Cave Spider Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"cave_spider\"}}}"
+  },
+  {
+    "block_name": " Silverfish Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"silverfish\"}}}"
+  },
+  {
+    "block_name": " Blaze Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"blaze\"}}}"
+  },
+  {
+    "block_name": " Magma Cube Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"magma_cube\"}}}"
+  },
+  {
+    "block_name": " Ender Dragon Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"ender_dragon\"}}}"
+  },
+  {
+    "block_name": " Wither Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"wither\"}}}"
+  },
+  {
+    "block_name": " Bat Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"bat\"}}}"
+  },
+  {
+    "block_name": " Witch Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"witch\"}}}"
+  },
+  {
+    "block_name": " Pig Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"pig\"}}}"
+  },
+  {
+    "block_name": " Sheep Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"sheep\"}}}"
+  },
+  {
+    "block_name": " Cow Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"cow\"}}}"
+  },
+  {
+    "block_name": " Chicken Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"chicken\"}}}"
+  },
+  {
+    "block_name": " Squid Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"squid\"}}}"
+  },
+  {
+    "block_name": " Wolf Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"wolf\"}}}"
+  },
+  {
+    "block_name": " Mooshroom Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"mooshroom\"}}}"
+  },
+  {
+    "block_name": " Snowman Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"snow_golem\"}}}"
+  },
+  {
+    "block_name": " Ocelot Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"ocelot\"}}}"
+  },
+  {
+    "block_name": " Iron Golem Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"iron_golem\"}}}"
+  },
+  {
+    "block_name": " Horse Spawner ",
+    "block_id": "minecraft:spawner{BlockEntityTag:{SpawnData:{id:\"horse\"}}}"
+  },
+  {
+    "block_name": " Potion ",
+    "block_id": "minecraft:potion"
+  },
+  {
+    "block_name": " Splash Potion ",
+    "block_id": "minecraft:splash_potion"
+  },
+  {
+    "block_name": " Lingering Potion ",
+    "block_id": "minecraft:lingering_potion"
+  },
+  {
+    "block_name": " Water Bottle ",
+    "block_id": "minecraft:potion{Potion:water}"
+  },
+  {
+    "block_name": " Uncraftable Potion ",
+    "block_id": "minecraft:potion{Potion:empty}"
+  },
+  {
+    "block_name": " Awkward Potion ",
+    "block_id": "minecraft:potion{Potion:awkward}"
+  },
+  {
+    "block_name": " Thick Potion ",
+    "block_id": "minecraft:potion{Potion:thick}"
+  },
+  {
+    "block_name": " Mundane Potion ",
+    "block_id": "minecraft:potion{Potion:mundane}"
+  },
+  {
+    "block_name": " Regeneration Potion (0:45) ",
+    "block_id": "minecraft:potion{Potion:regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:fire_resistance}"
+  },
+  {
+    "block_name": " Poison Potion (0:45) ",
+    "block_id": "minecraft:potion{Potion:poison}"
+  },
+  {
+    "block_name": " Healing Potion ",
+    "block_id": "minecraft:potion{Potion:healing}"
+  },
+  {
+    "block_name": " Night Vision Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:night_vision}"
+  },
+  {
+    "block_name": " Weakness Potion (1:30) ",
+    "block_id": "minecraft:potion{Potion:weakness}"
+  },
+  {
+    "block_name": " Strength Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:strength}"
+  },
+  {
+    "block_name": " Slowness Potion (1:30) ",
+    "block_id": "minecraft:potion{Potion:slowness}"
+  },
+  {
+    "block_name": " Harming Potion ",
+    "block_id": "minecraft:potion{Potion:harming}"
+  },
+  {
+    "block_name": " Water Breathing Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:invisibility}"
+  },
+  {
+    "block_name": " Regeneration Potion II (0:22) ",
+    "block_id": "minecraft:potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion II (1:30) ",
+    "block_id": "minecraft:potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison Potion II (0:22) ",
+    "block_id": "minecraft:potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Healing Potion II ",
+    "block_id": "minecraft:potion{Potion:strong_healing}"
+  },
+  {
+    "block_name": " Strength Potion II (1:30) ",
+    "block_id": "minecraft:potion{Potion:strong_strength}"
+  },
+  {
+    "block_name": " Leaping Potion II (1:30) ",
+    "block_id": "minecraft:potion{Potion:strong_leaping}"
+  },
+  {
+    "block_name": " Harming Potion II ",
+    "block_id": "minecraft:potion{Potion:strong_harming}"
+  },
+  {
+    "block_name": " Regeneration Potion (2:00) ",
+    "block_id": "minecraft:potion{Potion:long_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_fire_resistance}"
+  },
+  {
+    "block_name": " Poison Potion (2:00) ",
+    "block_id": "minecraft:potion{Potion:long_poison}"
+  },
+  {
+    "block_name": " Night Vision Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_night_vision}"
+  },
+  {
+    "block_name": " Weakness Potion (4:00) ",
+    "block_id": "minecraft:potion{Potion:long_weakness}"
+  },
+  {
+    "block_name": " Strength Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_strength}"
+  },
+  {
+    "block_name": " Slowness Potion (4:00) ",
+    "block_id": "minecraft:potion{Potion:long_slowness}"
+  },
+  {
+    "block_name": " Leaping Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:leaping}"
+  },
+  {
+    "block_name": " Water Breathing Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_invisibility}"
+  },
+  {
+    "block_name": " Regeneration Potion II (1:00) ",
+    "block_id": "minecraft:potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion II (4:00) ",
+    "block_id": "minecraft:potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison Potion II (1:00) ",
+    "block_id": "minecraft:potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Strength Potion II (4:00) ",
+    "block_id": "minecraft:potion{Potion:strong_strength}"
+  },
+  {
+    "block_name": " Potion of the Turtle Master (0:20) ",
+    "block_id": "minecraft:potion{Potion:turtle_master}"
+  },
+  {
+    "block_name": " Potion of the Turtle Master (0:40) ",
+    "block_id": "minecraft:potion{Potion:long_turtle_master}"
+  },
+  {
+    "block_name": " Potion of the Turtle Master II (0:20) ",
+    "block_id": "minecraft:potion{Potion:strong_turtle_master}"
+  },
+  {
+    "block_name": " Potion of Slow Falling (1:30) ",
+    "block_id": "minecraft:potion{Potion:slow_falling}"
+  },
+  {
+    "block_name": " Potion of Slow Falling (4:00) ",
+    "block_id": "minecraft:potion{Potion:long_slow_falling}"
+  },
+  {
+    "block_name": " Regeneration Splash (0:33) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:regeneration}"
+  },
+  {
+    "block_name": " Swiftness Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:fire_resistance}"
+  },
+  {
+    "block_name": " Poison Splash (0:33) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:poison}"
+  },
+  {
+    "block_name": " Healing Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:healing}"
+  },
+  {
+    "block_name": " Night Vision Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:night_vision}"
+  },
+  {
+    "block_name": " Weakness Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:weakness}"
+  },
+  {
+    "block_name": " Strength Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strength}"
+  },
+  {
+    "block_name": " Slowness Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:slowness}"
+  },
+  {
+    "block_name": " Harming Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:harming}"
+  },
+  {
+    "block_name": " Water Breathing Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:invisibility}"
+  },
+  {
+    "block_name": " Regeneration II Splash (0:16) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness II Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison II Splash (0:16) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Healing II Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_healing}"
+  },
+  {
+    "block_name": " Strength II Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Leaping II Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_leaping}"
+  },
+  {
+    "block_name": " Harming II Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_harming}"
+  },
+  {
+    "block_name": " Regeneration Splash (1:30) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_fire_resistance}"
+  },
+  {
+    "block_name": " Poison Splash (1:30) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_poison}"
+  },
+  {
+    "block_name": " Night Vision Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_night_vision}"
+  },
+  {
+    "block_name": " Weakness Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_weakness}"
+  },
+  {
+    "block_name": " Strength Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_strength}"
+  },
+  {
+    "block_name": " Slowness Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_slowness}"
+  },
+  {
+    "block_name": " Leaping Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:leaping}"
+  },
+  {
+    "block_name": " Water Breathing Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_invisibility}"
+  },
+  {
+    "block_name": " Regeneration II Splash (0:45) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness II Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison II Splash (0:45) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Strength II Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_strength}"
+  },
+  {
+    "block_name": " Splash Turtle Master Potion (0:20) ",
+    "block_id": "minecraft:splash_potion{Potion:turtle_master}"
+  },
+  {
+    "block_name": " Splash Turtle Master Potion (0:40) ",
+    "block_id": "minecraft:splash_potion{Potion:long_turtle_master}"
+  },
+  {
+    "block_name": " Splash Turtle Master Potion II (0:20) ",
+    "block_id": "minecraft:splash_potion{Potion:strong_turtle_master}"
+  },
+  {
+    "block_name": " Splash Slow Falling Potion (1:30) ",
+    "block_id": "minecraft:splash_potion{Potion:slow_falling}"
+  },
+  {
+    "block_name": " Splash Slow Falling Potion (4:00) ",
+    "block_id": "minecraft:splash_potion{Potion:long_slow_falling}"
+  },
+  {
+    "block_name": " Bat Spawn Egg ",
+    "block_id": "minecraft:bat_spawn_egg"
+  },
+  {
+    "block_name": " Blaze Spawn Egg ",
+    "block_id": "minecraft:blaze_spawn_egg"
+  },
+  {
+    "block_name": " Cave Spider Spawn Egg ",
+    "block_id": "minecraft:cave_spider_spawn_egg"
+  },
+  {
+    "block_name": " Chicken Spawn Egg ",
+    "block_id": "minecraft:chicken_spawn_egg"
+  },
+  {
+    "block_name": " Cod Spawn Egg ",
+    "block_id": "minecraft:cod_spawn_egg"
+  },
+  {
+    "block_name": " Cow Spawn Egg ",
+    "block_id": "minecraft:cow_spawn_egg"
+  },
+  {
+    "block_name": " Creeper Spawn Egg ",
+    "block_id": "minecraft:creeper_spawn_egg"
+  },
+  {
+    "block_name": " Dolphin Spawn Egg ",
+    "block_id": "minecraft:dolphin_spawn_egg"
+  },
+  {
+    "block_name": " Donkey Spawn Egg ",
+    "block_id": "minecraft:donkey_spawn_egg"
+  },
+  {
+    "block_name": " Drowned Spawn Egg ",
+    "block_id": "minecraft:drowned_spawn_egg"
+  },
+  {
+    "block_name": " Elder Guardian Spawn Egg ",
+    "block_id": "minecraft:elder_guardian_spawn_egg"
+  },
+  {
+    "block_name": " Enderman Spawn Egg ",
+    "block_id": "minecraft:enderman_spawn_egg"
+  },
+  {
+    "block_name": " Endermite Spawn Egg ",
+    "block_id": "minecraft:endermite_spawn_egg"
+  },
+  {
+    "block_name": " Evoker Spawn Egg ",
+    "block_id": "minecraft:evoker_spawn_egg"
+  },
+  {
+    "block_name": " Ghast Spawn Egg ",
+    "block_id": "minecraft:ghast_spawn_egg"
+  },
+  {
+    "block_name": " Guardian Spawn Egg ",
+    "block_id": "minecraft:guardian_spawn_egg"
+  },
+  {
+    "block_name": " Horse Spawn Egg ",
+    "block_id": "minecraft:horse_spawn_egg"
+  },
+  {
+    "block_name": " Husk Spawn Egg ",
+    "block_id": "minecraft:husk_spawn_egg"
+  },
+  {
+    "block_name": " Llama Spawn Egg ",
+    "block_id": "minecraft:llama_spawn_egg"
+  },
+  {
+    "block_name": " Magma Cube Spawn Egg ",
+    "block_id": "minecraft:magma_cube_spawn_egg"
+  },
+  {
+    "block_name": " Mooshroom Spawn Egg ",
+    "block_id": "minecraft:mooshroom_spawn_egg"
+  },
+  {
+    "block_name": " Mule Spawn Egg ",
+    "block_id": "minecraft:mule_spawn_egg"
+  },
+  {
+    "block_name": " Ocelot Spawn Egg ",
+    "block_id": "minecraft:ocelot_spawn_egg"
+  },
+  {
+    "block_name": " Parrot Spawn Egg ",
+    "block_id": "minecraft:parrot_spawn_egg"
+  },
+  {
+    "block_name": " Phantom Spawn Egg ",
+    "block_id": "minecraft:phantom_spawn_egg"
+  },
+  {
+    "block_name": " Pig Spawn Egg ",
+    "block_id": "minecraft:pig_spawn_egg"
+  },
+  {
+    "block_name": " Polar Bear Spawn Egg ",
+    "block_id": "minecraft:polar_bear_spawn_egg"
+  },
+  {
+    "block_name": " Pufferfish Spawn Egg ",
+    "block_id": "minecraft:pufferfish_spawn_egg"
+  },
+  {
+    "block_name": " Rabbit Spawn Egg ",
+    "block_id": "minecraft:rabbit_spawn_egg"
+  },
+  {
+    "block_name": " Salmon Spawn Egg ",
+    "block_id": "minecraft:salmon_spawn_egg"
+  },
+  {
+    "block_name": " Sheep Spawn Egg ",
+    "block_id": "minecraft:sheep_spawn_egg"
+  },
+  {
+    "block_name": " Shulker Spawn Egg ",
+    "block_id": "minecraft:shulker_spawn_egg"
+  },
+  {
+    "block_name": " Silverfish Spawn Egg ",
+    "block_id": "minecraft:silverfish_spawn_egg"
+  },
+  {
+    "block_name": " Skeleton Spawn Egg ",
+    "block_id": "minecraft:skeleton_spawn_egg"
+  },
+  {
+    "block_name": " Skeleton Horse Spawn Egg ",
+    "block_id": "minecraft:skeleton_horse_spawn_egg"
+  },
+  {
+    "block_name": " Slime Spawn Egg ",
+    "block_id": "minecraft:slime_spawn_egg"
+  },
+  {
+    "block_name": " Spider Spawn Egg ",
+    "block_id": "minecraft:spider_spawn_egg"
+  },
+  {
+    "block_name": " Squid Spawn Egg ",
+    "block_id": "minecraft:squid_spawn_egg"
+  },
+  {
+    "block_name": " Stray Spawn Egg ",
+    "block_id": "minecraft:stray_spawn_egg"
+  },
+  {
+    "block_name": " Tropical Fish Spawn Egg ",
+    "block_id": "minecraft:tropical_fish_spawn_egg"
+  },
+  {
+    "block_name": " Turtle Spawn Egg ",
+    "block_id": "minecraft:turtle_spawn_egg"
+  },
+  {
+    "block_name": " Vex Spawn Egg ",
+    "block_id": "minecraft:vex_spawn_egg"
+  },
+  {
+    "block_name": " Villager Spawn Egg ",
+    "block_id": "minecraft:villager_spawn_egg"
+  },
+  {
+    "block_name": " Vindicator Spawn Egg ",
+    "block_id": "minecraft:vindicator_spawn_egg"
+  },
+  {
+    "block_name": " Witch Spawn Egg ",
+    "block_id": "minecraft:witch_spawn_egg"
+  },
+  {
+    "block_name": " Wither Skeleton Spawn Egg ",
+    "block_id": "minecraft:wither_skeleton_spawn_egg"
+  },
+  {
+    "block_name": " Wolf Spawn Egg ",
+    "block_id": "minecraft:wolf_spawn_egg"
+  },
+  {
+    "block_name": " Zombie Spawn Egg ",
+    "block_id": "minecraft:zombie_spawn_egg"
+  },
+  {
+    "block_name": " Zombie Horse Spawn Egg ",
+    "block_id": "minecraft:zombie_horse_spawn_egg"
+  },
+  {
+    "block_name": " Zombie Pigman Spawn Egg ",
+    "block_id": "minecraft:zombie_pigman_spawn_egg"
+  },
+  {
+    "block_name": " Zombie Villager Spawn Egg ",
+    "block_id": "minecraft:zombie_villager_spawn_egg"
+  },
+  {
+    "block_name": " Cat Spawn Egg ",
+    "block_id": "minecraft:cat_spawn_egg"
+  },
+  {
+    "block_name": " Fox Spawn Egg ",
+    "block_id": "minecraft:fox_spawn_egg"
+  },
+  {
+    "block_name": " Panda Spawn Egg ",
+    "block_id": "minecraft:panda_spawn_egg"
+  },
+  {
+    "block_name": " Pillager Spawn Egg ",
+    "block_id": "minecraft:pillager_spawn_egg"
+  },
+  {
+    "block_name": " Ravager Spawn Egg ",
+    "block_id": "minecraft:ravager_spawn_egg"
+  },
+  {
+    "block_name": " Trader Llama Spawn Egg ",
+    "block_id": "minecraft:trader_llama_spawn_egg"
+  },
+  {
+    "block_name": " Wandering Trader Spawn Egg ",
+    "block_id": "minecraft:wandering_trader_spawn_egg"
+  },
+  {
+    "block_name": " Bee Spawn Egg ",
+    "block_id": "minecraft:bee_spawn_egg"
+  },
+  {
+    "block_name": " Hoglin Spawn Egg ",
+    "block_id": "minecraft:hoglin_spawn_egg"
+  },
+  {
+    "block_name": " Piglin Spawn Egg ",
+    "block_id": "minecraft:piglin_spawn_egg"
+  },
+  {
+    "block_name": " Strider Spawn Egg ",
+    "block_id": "minecraft:strider_spawn_egg"
+  },
+  {
+    "block_name": " Zoglin Spawn Egg ",
+    "block_id": "minecraft:zoglin_spawn_egg"
+  },
+  {
+    "block_name": " Zombified Piglin Spawn Egg ",
+    "block_id": "minecraft:zombified_piglin_spawn_egg"
+  },
+  {
+    "block_name": " Axolotl Spawn Egg ",
+    "block_id": "minecraft:axolotl_spawn_egg"
+  },
+  {
+    "block_name": " Glow Squid Spawn Egg ",
+    "block_id": "minecraft:glow_squid_spawn_egg"
+  },
+  {
+    "block_name": " Goat Spawn Egg ",
+    "block_id": "minecraft:goat_spawn_egg"
+  },
+  {
+    "block_name": " Piglin Brute Spawn Egg ",
+    "block_id": "minecraft:piglin_brute_spawn_egg"
+  },
+  {
+    "block_name": " Granite ",
+    "block_id": "minecraft:granite"
+  },
+  {
+    "block_name": " Polished Granite ",
+    "block_id": "minecraft:polished_granite"
+  },
+  {
+    "block_name": " Diorite ",
+    "block_id": "minecraft:diorite"
+  },
+  {
+    "block_name": " Polished Diorite ",
+    "block_id": "minecraft:polished_diorite"
+  },
+  {
+    "block_name": " Andesite ",
+    "block_id": "minecraft:andesite"
+  },
+  {
+    "block_name": " Polished Andesite ",
+    "block_id": "minecraft:polished_andesite"
+  },
+  {
+    "block_name": " Oak Planks ",
+    "block_id": "minecraft:oak_planks"
+  },
+  {
+    "block_name": " Spruce Planks ",
+    "block_id": "minecraft:spruce_planks"
+  },
+  {
+    "block_name": " Birch Planks ",
+    "block_id": "minecraft:birch_planks"
+  },
+  {
+    "block_name": " Jungle Planks ",
+    "block_id": "minecraft:jungle_planks"
+  },
+  {
+    "block_name": " Acacia Planks ",
+    "block_id": "minecraft:acacia_planks"
+  },
+  {
+    "block_name": " Dark Oak Planks ",
+    "block_id": "minecraft:dark_oak_planks"
+  },
+  {
+    "block_name": " Acacia Log ",
+    "block_id": "minecraft:acacia_log"
+  },
+  {
+    "block_name": " Dark Oak Log ",
+    "block_id": "minecraft:dark_oak_log"
+  },
+  {
+    "block_name": " Oak Wood ",
+    "block_id": "minecraft:oak_wood"
+  },
+  {
+    "block_name": " Spruce Wood ",
+    "block_id": "minecraft:spruce_wood"
+  },
+  {
+    "block_name": " Birch Wood ",
+    "block_id": "minecraft:birch_wood"
+  },
+  {
+    "block_name": " Jungle Wood ",
+    "block_id": "minecraft:jungle_wood"
+  },
+  {
+    "block_name": " Acacia Wood ",
+    "block_id": "minecraft:acacia_wood"
+  },
+  {
+    "block_name": " Dark Oak Wood ",
+    "block_id": "minecraft:dark_oak_wood"
+  },
+  {
+    "block_name": " Acacia Leaves ",
+    "block_id": "minecraft:acacia_leaves"
+  },
+  {
+    "block_name": " Dark Oak Leaves ",
+    "block_id": "minecraft:dark_oak_leaves"
+  },
+  {
+    "block_name": " Lapis Lazuli Block ",
+    "block_id": "minecraft:lapis_block"
+  },
+  {
+    "block_name": " Sandstone ",
+    "block_id": "minecraft:sandstone"
+  },
+  {
+    "block_name": " Chiseled Sandstone ",
+    "block_id": "minecraft:chiseled_sandstone"
+  },
+  {
+    "block_name": " Cut Sandstone ",
+    "block_id": "minecraft:cut_sandstone"
+  },
+  {
+    "block_name": " Note Block ",
+    "block_id": "minecraft:note_block"
+  },
+  {
+    "block_name": " Fern ",
+    "block_id": "minecraft:fern"
+  },
+  {
+    "block_name": " Dead Bush ",
+    "block_id": "minecraft:dead_bush"
+  },
+  {
+    "block_name": " Sea Pickle ",
+    "block_id": "minecraft:sea_pickle"
+  },
+  {
+    "block_name": " White Wool ",
+    "block_id": "minecraft:white_wool"
+  },
+  {
+    "block_name": " Orange Wool ",
+    "block_id": "minecraft:orange_wool"
+  },
+  {
+    "block_name": " Magenta Wool ",
+    "block_id": "minecraft:magenta_wool"
+  },
+  {
+    "block_name": " Light Blue Wool ",
+    "block_id": "minecraft:light_blue_wool"
+  },
+  {
+    "block_name": " Yellow Wool ",
+    "block_id": "minecraft:yellow_wool"
+  },
+  {
+    "block_name": " Lime Wool ",
+    "block_id": "minecraft:lime_wool"
+  },
+  {
+    "block_name": " Pink Wool ",
+    "block_id": "minecraft:pink_wool"
+  },
+  {
+    "block_name": " Gray Wool ",
+    "block_id": "minecraft:gray_wool"
+  },
+  {
+    "block_name": " Light Gray Wool ",
+    "block_id": "minecraft:light_gray_wool"
+  },
+  {
+    "block_name": " Cyan Wool ",
+    "block_id": "minecraft:cyan_wool"
+  },
+  {
+    "block_name": " Purple Wool ",
+    "block_id": "minecraft:purple_wool"
+  },
+  {
+    "block_name": " Blue Wool ",
+    "block_id": "minecraft:blue_wool"
+  },
+  {
+    "block_name": " Brown Wool ",
+    "block_id": "minecraft:brown_wool"
+  },
+  {
+    "block_name": " Green Wool ",
+    "block_id": "minecraft:green_wool"
+  },
+  {
+    "block_name": " Red Wool ",
+    "block_id": "minecraft:red_wool"
+  },
+  {
+    "block_name": " Black Wool ",
+    "block_id": "minecraft:black_wool"
+  },
+  {
+    "block_name": " Dandelion ",
+    "block_id": "minecraft:dandelion"
+  },
+  {
+    "block_name": " Poppy ",
+    "block_id": "minecraft:poppy"
+  },
+  {
+    "block_name": " Blue Orchid ",
+    "block_id": "minecraft:blue_orchid"
+  },
+  {
+    "block_name": " Allium ",
+    "block_id": "minecraft:allium"
+  },
+  {
+    "block_name": " Azure Bluet ",
+    "block_id": "minecraft:azure_bluet"
+  },
+  {
+    "block_name": " Red Tulip ",
+    "block_id": "minecraft:red_tulip"
+  },
+  {
+    "block_name": " Orange Tulip ",
+    "block_id": "minecraft:orange_tulip"
+  },
+  {
+    "block_name": " White Tulip ",
+    "block_id": "minecraft:white_tulip"
+  },
+  {
+    "block_name": " Pink Tulip ",
+    "block_id": "minecraft:pink_tulip"
+  },
+  {
+    "block_name": " Oxeye Daisy ",
+    "block_id": "minecraft:oxeye_daisy"
+  },
+  {
+    "block_name": " Block of Gold ",
+    "block_id": "minecraft:gold_block"
+  },
+  {
+    "block_name": " Block of Iron ",
+    "block_id": "minecraft:iron_block"
+  },
+  {
+    "block_name": " Stone Slab ",
+    "block_id": "minecraft:stone_slab"
+  },
+  {
+    "block_name": " Sandstone Slab ",
+    "block_id": "minecraft:sandstone_slab"
+  },
+  {
+    "block_name": " Cobblestone Slab ",
+    "block_id": "minecraft:cobblestone_slab"
+  },
+  {
+    "block_name": " Brick Slab ",
+    "block_id": "minecraft:brick_slab"
+  },
+  {
+    "block_name": " Stone Brick Slab ",
+    "block_id": "minecraft:stone_brick_slab"
+  },
+  {
+    "block_name": " Nether Brick Slab ",
+    "block_id": "minecraft:nether_brick_slab"
+  },
+  {
+    "block_name": " Quartz Slab ",
+    "block_id": "minecraft:quartz_slab"
+  },
+  {
+    "block_name": " Red Sandstone Slab ",
+    "block_id": "minecraft:red_sandstone_slab"
+  },
+  {
+    "block_name": " Purpur Slab ",
+    "block_id": "minecraft:purpur_slab"
+  },
+  {
+    "block_name": " Smooth Quartz ",
+    "block_id": "minecraft:smooth_quartz"
+  },
+  {
+    "block_name": " Smooth Red Sandstone ",
+    "block_id": "minecraft:smooth_red_sandstone"
+  },
+  {
+    "block_name": " Smooth Sandstone ",
+    "block_id": "minecraft:smooth_sandstone"
+  },
+  {
+    "block_name": " Smooth Stone ",
+    "block_id": "minecraft:smooth_stone"
+  },
+  {
+    "block_name": " Bricks ",
+    "block_id": "minecraft:bricks"
+  },
+  {
+    "block_name": " Mossy Cobblestone ",
+    "block_id": "minecraft:mossy_cobblestone"
+  },
+  {
+    "block_name": " End Rod ",
+    "block_id": "minecraft:end_rod"
+  },
+  {
+    "block_name": " Chorus Plant ",
+    "block_id": "minecraft:chorus_plant"
+  },
+  {
+    "block_name": " Chorus Flower ",
+    "block_id": "minecraft:chorus_flower"
+  },
+  {
+    "block_name": " Purpur Block ",
+    "block_id": "minecraft:purpur_block"
+  },
+  {
+    "block_name": " Purpur Pillar ",
+    "block_id": "minecraft:purpur_pillar"
+  },
+  {
+    "block_name": " Purpur Stairs ",
+    "block_id": "minecraft:purpur_stairs"
+  },
+  {
+    "block_name": " Oak Stairs ",
+    "block_id": "minecraft:oak_stairs"
+  },
+  {
+    "block_name": " Block of Diamond ",
+    "block_id": "minecraft:diamond_block"
+  },
+  {
+    "block_name": " Crafting Table ",
+    "block_id": "minecraft:crafting_table"
+  },
+  {
+    "block_name": " Snow ",
+    "block_id": "minecraft:snow"
+  },
+  {
+    "block_name": " Ice ",
+    "block_id": "minecraft:ice"
+  },
+  {
+    "block_name": " Snow Block ",
+    "block_id": "minecraft:snow_block"
+  },
+  {
+    "block_name": " Cactus ",
+    "block_id": "minecraft:cactus"
+  },
+  {
+    "block_name": " Jack o'Lantern ",
+    "block_id": "minecraft:jack_o_lantern"
+  },
+  {
+    "block_name": " Stone Bricks ",
+    "block_id": "minecraft:stone_bricks"
+  },
+  {
+    "block_name": " Mossy Stone Bricks ",
+    "block_id": "minecraft:mossy_stone_bricks"
+  },
+  {
+    "block_name": " Cracked Stone Bricks ",
+    "block_id": "minecraft:cracked_stone_bricks"
+  },
+  {
+    "block_name": " Chiseled Stone Bricks ",
+    "block_id": "minecraft:chiseled_stone_bricks"
+  },
+  {
+    "block_name": " Brown Mushroom Block ",
+    "block_id": "minecraft:brown_mushroom_block"
+  },
+  {
+    "block_name": " Red Mushroom Block ",
+    "block_id": "minecraft:red_mushroom_block"
+  },
+  {
+    "block_name": " Mushroom Stem ",
+    "block_id": "minecraft:mushroom_stem"
+  },
+  {
+    "block_name": " Iron Bars ",
+    "block_id": "minecraft:iron_bars"
+  },
+  {
+    "block_name": " Glass Pane ",
+    "block_id": "minecraft:glass_pane"
+  },
+  {
+    "block_name": " Vines ",
+    "block_id": "minecraft:vine"
+  },
+  {
+    "block_name": " Oak Fence Gate ",
+    "block_id": "minecraft:oak_fence_gate"
+  },
+  {
+    "block_name": " Spruce Fence Gate ",
+    "block_id": "minecraft:spruce_fence_gate"
+  },
+  {
+    "block_name": " Birch Fence Gate ",
+    "block_id": "minecraft:birch_fence_gate"
+  },
+  {
+    "block_name": " Jungle Fence Gate ",
+    "block_id": "minecraft:jungle_fence_gate"
+  },
+  {
+    "block_name": " Acacia Fence Gate ",
+    "block_id": "minecraft:acacia_fence_gate"
+  },
+  {
+    "block_name": " Dark Oak Fence Gate ",
+    "block_id": "minecraft:dark_oak_fence_gate"
+  },
+  {
+    "block_name": " Brick Stairs ",
+    "block_id": "minecraft:brick_stairs"
+  },
+  {
+    "block_name": " Stone Brick Stairs ",
+    "block_id": "minecraft:stone_brick_stairs"
+  },
+  {
+    "block_name": " Mycelium ",
+    "block_id": "minecraft:mycelium"
+  },
+  {
+    "block_name": " Lily Pad ",
+    "block_id": "minecraft:lily_pad"
+  },
+  {
+    "block_name": " Nether Bricks ",
+    "block_id": "minecraft:nether_bricks"
+  },
+  {
+    "block_name": " Nether Brick Fence ",
+    "block_id": "minecraft:nether_brick_fence"
+  },
+  {
+    "block_name": " Nether Brick Stairs ",
+    "block_id": "minecraft:nether_brick_stairs"
+  },
+  {
+    "block_name": " Enchanting Table ",
+    "block_id": "minecraft:enchanting_table"
+  },
+  {
+    "block_name": " End Portal Frame ",
+    "block_id": "minecraft:end_portal_frame"
+  },
+  {
+    "block_name": " End Stone ",
+    "block_id": "minecraft:end_stone"
+  },
+  {
+    "block_name": " End Stone Bricks ",
+    "block_id": "minecraft:end_stone_bricks"
+  },
+  {
+    "block_name": " Block of Emerald ",
+    "block_id": "minecraft:emerald_block"
+  },
+  {
+    "block_name": " Spruce Stairs ",
+    "block_id": "minecraft:spruce_stairs"
+  },
+  {
+    "block_name": " Birch Stairs ",
+    "block_id": "minecraft:birch_stairs"
+  },
+  {
+    "block_name": " Jungle Stairs ",
+    "block_id": "minecraft:jungle_stairs"
+  },
+  {
+    "block_name": " Cobblestone Wall ",
+    "block_id": "minecraft:cobblestone_wall"
+  },
+  {
+    "block_name": " Mossy Cobblestone Wall ",
+    "block_id": "minecraft:mossy_cobblestone_wall"
+  },
+  {
+    "block_name": " Daylight Detector ",
+    "block_id": "minecraft:daylight_detector"
+  },
+  {
+    "block_name": " Chiseled Quartz Block ",
+    "block_id": "minecraft:chiseled_quartz_block"
+  },
+  {
+    "block_name": " Block of Quartz ",
+    "block_id": "minecraft:quartz_block"
+  },
+  {
+    "block_name": " Quartz Pillar ",
+    "block_id": "minecraft:quartz_pillar"
+  },
+  {
+    "block_name": " Quartz Stairs ",
+    "block_id": "minecraft:quartz_stairs"
+  },
+  {
+    "block_name": " White Terracotta ",
+    "block_id": "minecraft:white_terracotta"
+  },
+  {
+    "block_name": " Orange Terracotta ",
+    "block_id": "minecraft:orange_terracotta"
+  },
+  {
+    "block_name": " Magenta Terracotta ",
+    "block_id": "minecraft:magenta_terracotta"
+  },
+  {
+    "block_name": " Light Blue Terracotta ",
+    "block_id": "minecraft:light_blue_terracotta"
+  },
+  {
+    "block_name": " Yellow Terracotta ",
+    "block_id": "minecraft:yellow_terracotta"
+  },
+  {
+    "block_name": " Lime Terracotta ",
+    "block_id": "minecraft:lime_terracotta"
+  },
+  {
+    "block_name": " Pink Terracotta ",
+    "block_id": "minecraft:pink_terracotta"
+  },
+  {
+    "block_name": " Gray Terracotta ",
+    "block_id": "minecraft:gray_terracotta"
+  },
+  {
+    "block_name": " Light Gray Terracotta ",
+    "block_id": "minecraft:light_gray_terracotta"
+  },
+  {
+    "block_name": " Cyan Terracotta ",
+    "block_id": "minecraft:cyan_terracotta"
+  },
+  {
+    "block_name": " Purple Terracotta ",
+    "block_id": "minecraft:purple_terracotta"
+  },
+  {
+    "block_name": " Blue Terracotta ",
+    "block_id": "minecraft:blue_terracotta"
+  },
+  {
+    "block_name": " Brown Terracotta ",
+    "block_id": "minecraft:brown_terracotta"
+  },
+  {
+    "block_name": " Green Terracotta ",
+    "block_id": "minecraft:green_terracotta"
+  },
+  {
+    "block_name": " Red Terracotta ",
+    "block_id": "minecraft:red_terracotta"
+  },
+  {
+    "block_name": " Black Terracotta ",
+    "block_id": "minecraft:black_terracotta"
+  },
+  {
+    "block_name": " Barrier ",
+    "block_id": "minecraft:barrier"
+  },
+  {
+    "block_name": " White Carpet ",
+    "block_id": "minecraft:white_carpet"
+  },
+  {
+    "block_name": " Orange Carpet ",
+    "block_id": "minecraft:orange_carpet"
+  },
+  {
+    "block_name": " Magenta Carpet ",
+    "block_id": "minecraft:magenta_carpet"
+  },
+  {
+    "block_name": " Light Blue Carpet ",
+    "block_id": "minecraft:light_blue_carpet"
+  },
+  {
+    "block_name": " Yellow Carpet ",
+    "block_id": "minecraft:yellow_carpet"
+  },
+  {
+    "block_name": " Lime Carpet ",
+    "block_id": "minecraft:lime_carpet"
+  },
+  {
+    "block_name": " Pink Carpet ",
+    "block_id": "minecraft:pink_carpet"
+  },
+  {
+    "block_name": " Gray Carpet ",
+    "block_id": "minecraft:gray_carpet"
+  },
+  {
+    "block_name": " Light Gray Carpet ",
+    "block_id": "minecraft:light_gray_carpet"
+  },
+  {
+    "block_name": " Cyan Carpet ",
+    "block_id": "minecraft:cyan_carpet"
+  },
+  {
+    "block_name": " Purple Carpet ",
+    "block_id": "minecraft:purple_carpet"
+  },
+  {
+    "block_name": " Blue Carpet ",
+    "block_id": "minecraft:blue_carpet"
+  },
+  {
+    "block_name": " Brown Carpet ",
+    "block_id": "minecraft:brown_carpet"
+  },
+  {
+    "block_name": " Green Carpet ",
+    "block_id": "minecraft:green_carpet"
+  },
+  {
+    "block_name": " Red Carpet ",
+    "block_id": "minecraft:red_carpet"
+  },
+  {
+    "block_name": " Black Carpet ",
+    "block_id": "minecraft:black_carpet"
+  },
+  {
+    "block_name": " Terracotta ",
+    "block_id": "minecraft:terracotta"
+  },
+  {
+    "block_name": " Block of Coal ",
+    "block_id": "minecraft:coal_block"
+  },
+  {
+    "block_name": " Packed Ice ",
+    "block_id": "minecraft:packed_ice"
+  },
+  {
+    "block_name": " Acacia Stairs ",
+    "block_id": "minecraft:acacia_stairs"
+  },
+  {
+    "block_name": " Dark Oak Stairs ",
+    "block_id": "minecraft:dark_oak_stairs"
+  },
+  {
+    "block_name": " Slime Block ",
+    "block_id": "minecraft:slime_block"
+  },
+  {
+    "block_name": " Grass Path ",
+    "block_id": "minecraft:grass_path"
+  },
+  {
+    "block_name": " Sunflower ",
+    "block_id": "minecraft:sunflower"
+  },
+  {
+    "block_name": " Lilac ",
+    "block_id": "minecraft:lilac"
+  },
+  {
+    "block_name": " Rose Bush ",
+    "block_id": "minecraft:rose_bush"
+  },
+  {
+    "block_name": " Peony ",
+    "block_id": "minecraft:peony"
+  },
+  {
+    "block_name": " Tall Grass ",
+    "block_id": "minecraft:tall_grass"
+  },
+  {
+    "block_name": " Large Fern ",
+    "block_id": "minecraft:large_fern"
+  },
+  {
+    "block_name": " White Stained Glass ",
+    "block_id": "minecraft:white_stained_glass"
+  },
+  {
+    "block_name": " Orange Stained Glass ",
+    "block_id": "minecraft:orange_stained_glass"
+  },
+  {
+    "block_name": " Magenta Stained Glass ",
+    "block_id": "minecraft:magenta_stained_glass"
+  },
+  {
+    "block_name": " Light Blue Stained Glass ",
+    "block_id": "minecraft:light_blue_stained_glass"
+  },
+  {
+    "block_name": " Yellow Stained Glass ",
+    "block_id": "minecraft:yellow_stained_glass"
+  },
+  {
+    "block_name": " Lime Stained Glass ",
+    "block_id": "minecraft:lime_stained_glass"
+  },
+  {
+    "block_name": " Pink Stained Glass ",
+    "block_id": "minecraft:pink_stained_glass"
+  },
+  {
+    "block_name": " Gray Stained Glass ",
+    "block_id": "minecraft:gray_stained_glass"
+  },
+  {
+    "block_name": " Light Gray Stained Glass ",
+    "block_id": "minecraft:light_gray_stained_glass"
+  },
+  {
+    "block_name": " Cyan Stained Glass ",
+    "block_id": "minecraft:cyan_stained_glass"
+  },
+  {
+    "block_name": " Purple Stained Glass ",
+    "block_id": "minecraft:purple_stained_glass"
+  },
+  {
+    "block_name": " Blue Stained Glass ",
+    "block_id": "minecraft:blue_stained_glass"
+  },
+  {
+    "block_name": " Brown Stained Glass ",
+    "block_id": "minecraft:brown_stained_glass"
+  },
+  {
+    "block_name": " Green Stained Glass ",
+    "block_id": "minecraft:green_stained_glass"
+  },
+  {
+    "block_name": " Red Stained Glass ",
+    "block_id": "minecraft:red_stained_glass"
+  },
+  {
+    "block_name": " Black Stained Glass ",
+    "block_id": "minecraft:black_stained_glass"
+  },
+  {
+    "block_name": " White Stained Glass Pane ",
+    "block_id": "minecraft:white_stained_glass_pane"
+  },
+  {
+    "block_name": " Orange Stained Glass Pane ",
+    "block_id": "minecraft:orange_stained_glass_pane"
+  },
+  {
+    "block_name": " Magenta Stained Glass Pane ",
+    "block_id": "minecraft:magenta_stained_glass_pane"
+  },
+  {
+    "block_name": " Light Blue Stained Glass Pane ",
+    "block_id": "minecraft:light_blue_stained_glass_pane"
+  },
+  {
+    "block_name": " Yellow Stained Glass Pane ",
+    "block_id": "minecraft:yellow_stained_glass_pane"
+  },
+  {
+    "block_name": " Lime Stained Glass Pane ",
+    "block_id": "minecraft:lime_stained_glass_pane"
+  },
+  {
+    "block_name": " Pink Stained Glass Pane ",
+    "block_id": "minecraft:pink_stained_glass_pane"
+  },
+  {
+    "block_name": " Gray Stained Glass Pane ",
+    "block_id": "minecraft:gray_stained_glass_pane"
+  },
+  {
+    "block_name": " Light Gray Stained Glass Pane ",
+    "block_id": "minecraft:light_gray_stained_glass_pane"
+  },
+  {
+    "block_name": " Cyan Stained Glass Pane ",
+    "block_id": "minecraft:cyan_stained_glass_pane"
+  },
+  {
+    "block_name": " Purple Stained Glass Pane ",
+    "block_id": "minecraft:purple_stained_glass_pane"
+  },
+  {
+    "block_name": " Blue Stained Glass Pane ",
+    "block_id": "minecraft:blue_stained_glass_pane"
+  },
+  {
+    "block_name": " Brown Stained Glass Pane ",
+    "block_id": "minecraft:brown_stained_glass_pane"
+  },
+  {
+    "block_name": " Green Stained Glass Pane ",
+    "block_id": "minecraft:green_stained_glass_pane"
+  },
+  {
+    "block_name": " Red Stained Glass Pane ",
+    "block_id": "minecraft:red_stained_glass_pane"
+  },
+  {
+    "block_name": " Black Stained Glass Pane ",
+    "block_id": "minecraft:black_stained_glass_pane"
+  },
+  {
+    "block_name": " Prismarine ",
+    "block_id": "minecraft:prismarine"
+  },
+  {
+    "block_name": " Prismarine Bricks ",
+    "block_id": "minecraft:prismarine_bricks"
+  },
+  {
+    "block_name": " Dark Prismarine ",
+    "block_id": "minecraft:dark_prismarine"
+  },
+  {
+    "block_name": " Sea Lantern ",
+    "block_id": "minecraft:sea_lantern"
+  },
+  {
+    "block_name": " Red Sandstone ",
+    "block_id": "minecraft:red_sandstone"
+  },
+  {
+    "block_name": " Chiseled Red Sandstone ",
+    "block_id": "minecraft:chiseled_red_sandstone"
+  },
+  {
+    "block_name": " Cut Red Sandstone ",
+    "block_id": "minecraft:cut_red_sandstone"
+  },
+  {
+    "block_name": " Repeating Command Block ",
+    "block_id": "minecraft:repeating_command_block"
+  },
+  {
+    "block_name": " Chain Command Block ",
+    "block_id": "minecraft:chain_command_block"
+  },
+  {
+    "block_name": " Magma Block ",
+    "block_id": "minecraft:magma_block"
+  },
+  {
+    "block_name": " Nether Wart Block ",
+    "block_id": "minecraft:nether_wart_block"
+  },
+  {
+    "block_name": " Red Nether Bricks ",
+    "block_id": "minecraft:red_nether_bricks"
+  },
+  {
+    "block_name": " Bone Block ",
+    "block_id": "minecraft:bone_block"
+  },
+  {
+    "block_name": " White Glazed Terracotta ",
+    "block_id": "minecraft:white_glazed_terracotta"
+  },
+  {
+    "block_name": " Orange Glazed Terracotta ",
+    "block_id": "minecraft:orange_glazed_terracotta"
+  },
+  {
+    "block_name": " Magenta Glazed Terracotta ",
+    "block_id": "minecraft:magenta_glazed_terracotta"
+  },
+  {
+    "block_name": " Light Blue Glazed Terracotta ",
+    "block_id": "minecraft:light_blue_glazed_terracotta"
+  },
+  {
+    "block_name": " Yellow Glazed Terracotta ",
+    "block_id": "minecraft:yellow_glazed_terracotta"
+  },
+  {
+    "block_name": " Lime Glazed Terracotta ",
+    "block_id": "minecraft:lime_glazed_terracotta"
+  },
+  {
+    "block_name": " Pink Glazed Terracotta ",
+    "block_id": "minecraft:pink_glazed_terracotta"
+  },
+  {
+    "block_name": " Gray Glazed Terracotta ",
+    "block_id": "minecraft:gray_glazed_terracotta"
+  },
+  {
+    "block_name": " Light Gray Glazed Terracotta ",
+    "block_id": "minecraft:light_gray_glazed_terracotta"
+  },
+  {
+    "block_name": " Cyan Glazed Terracotta ",
+    "block_id": "minecraft:cyan_glazed_terracotta"
+  },
+  {
+    "block_name": " Purple Glazed Terracotta ",
+    "block_id": "minecraft:purple_glazed_terracotta"
+  },
+  {
+    "block_name": " Blue Glazed Terracotta ",
+    "block_id": "minecraft:blue_glazed_terracotta"
+  },
+  {
+    "block_name": " Brown Glazed Terracotta ",
+    "block_id": "minecraft:brown_glazed_terracotta"
+  },
+  {
+    "block_name": " Green Glazed Terracotta ",
+    "block_id": "minecraft:green_glazed_terracotta"
+  },
+  {
+    "block_name": " Red Glazed Terracotta ",
+    "block_id": "minecraft:red_glazed_terracotta"
+  },
+  {
+    "block_name": " Black Glazed Terracotta ",
+    "block_id": "minecraft:black_glazed_terracotta"
+  },
+  {
+    "block_name": " White Concrete ",
+    "block_id": "minecraft:white_concrete"
+  },
+  {
+    "block_name": " Orange Concrete ",
+    "block_id": "minecraft:orange_concrete"
+  },
+  {
+    "block_name": " Magenta Concrete ",
+    "block_id": "minecraft:magenta_concrete"
+  },
+  {
+    "block_name": " Light Blue Concrete ",
+    "block_id": "minecraft:light_blue_concrete"
+  },
+  {
+    "block_name": " Yellow Concrete ",
+    "block_id": "minecraft:yellow_concrete"
+  },
+  {
+    "block_name": " Lime Concrete ",
+    "block_id": "minecraft:lime_concrete"
+  },
+  {
+    "block_name": " Pink Concrete ",
+    "block_id": "minecraft:pink_concrete"
+  },
+  {
+    "block_name": " Gray Concrete ",
+    "block_id": "minecraft:gray_concrete"
+  },
+  {
+    "block_name": " Light Gray Concrete ",
+    "block_id": "minecraft:light_gray_concrete"
+  },
+  {
+    "block_name": " Cyan Concrete ",
+    "block_id": "minecraft:cyan_concrete"
+  },
+  {
+    "block_name": " Purple Concrete ",
+    "block_id": "minecraft:purple_concrete"
+  },
+  {
+    "block_name": " Blue Concrete ",
+    "block_id": "minecraft:blue_concrete"
+  },
+  {
+    "block_name": " Brown Concrete ",
+    "block_id": "minecraft:brown_concrete"
+  },
+  {
+    "block_name": " Green Concrete ",
+    "block_id": "minecraft:green_concrete"
+  },
+  {
+    "block_name": " Red Concrete ",
+    "block_id": "minecraft:red_concrete"
+  },
+  {
+    "block_name": " Black Concrete ",
+    "block_id": "minecraft:black_concrete"
+  },
+  {
+    "block_name": " White Concrete Powder ",
+    "block_id": "minecraft:white_concrete_powder"
+  },
+  {
+    "block_name": " Orange Concrete Powder ",
+    "block_id": "minecraft:orange_concrete_powder"
+  },
+  {
+    "block_name": " Dispenser ",
+    "block_id": "minecraft:dispenser"
+  },
+  {
+    "block_name": " Note Block ",
+    "block_id": "minecraft:note_block"
+  },
+  {
+    "block_name": " Powered Rail ",
+    "block_id": "minecraft:powered_rail"
+  },
+  {
+    "block_name": " Detector Rail ",
+    "block_id": "minecraft:detector_rail"
+  },
+  {
+    "block_name": " Sticky Piston ",
+    "block_id": "minecraft:sticky_piston"
+  },
+  {
+    "block_name": " Cobweb ",
+    "block_id": "minecraft:cobweb"
+  },
+  {
+    "block_name": " Piston ",
+    "block_id": "minecraft:piston"
+  },
+  {
+    "block_name": " TNT ",
+    "block_id": "minecraft:tnt"
+  },
+  {
+    "block_name": " Chest ",
+    "block_id": "minecraft:chest"
+  },
+  {
+    "block_name": " Rail ",
+    "block_id": "minecraft:rail"
+  },
+  {
+    "block_name": " Cobblestone Stairs ",
+    "block_id": "minecraft:cobblestone_stairs"
+  },
+  {
+    "block_name": " Lever ",
+    "block_id": "minecraft:lever"
+  },
+  {
+    "block_name": " Stone Pressure Plate ",
+    "block_id": "minecraft:stone_pressure_plate"
+  },
+  {
+    "block_name": " Oak Pressure Plate ",
+    "block_id": "minecraft:oak_pressure_plate"
+  },
+  {
+    "block_name": " Redstone Ore ",
+    "block_id": "minecraft:redstone_ore"
+  },
+  {
+    "block_name": " Redstone Torch ",
+    "block_id": "minecraft:redstone_torch"
+  },
+  {
+    "block_name": " Stone Button ",
+    "block_id": "minecraft:stone_button"
+  },
+  {
+    "block_name": " Oak Trapdoor ",
+    "block_id": "minecraft:oak_trapdoor"
+  },
+  {
+    "block_name": " End Portal Frame ",
+    "block_id": "minecraft:end_portal_frame"
+  },
+  {
+    "block_name": " Redstone Lamp ",
+    "block_id": "minecraft:redstone_lamp"
+  },
+  {
+    "block_name": " Tripwire Hook ",
+    "block_id": "minecraft:tripwire_hook"
+  },
+  {
+    "block_name": " Command Block ",
+    "block_id": "minecraft:command_block"
+  },
+  {
+    "block_name": " Oak Button ",
+    "block_id": "minecraft:oak_button"
+  },
+  {
+    "block_name": " Trapped Chest ",
+    "block_id": "minecraft:trapped_chest"
+  },
+  {
+    "block_name": " Light Weighted Pressure Plate ",
+    "block_id": "minecraft:light_weighted_pressure_plate"
+  },
+  {
+    "block_name": " Heavy Weighted Pressure Plate ",
+    "block_id": "minecraft:heavy_weighted_pressure_plate"
+  },
+  {
+    "block_name": " Daylight Detector ",
+    "block_id": "minecraft:daylight_detector"
+  },
+  {
+    "block_name": " Block of Redstone ",
+    "block_id": "minecraft:redstone_block"
+  },
+  {
+    "block_name": " Hopper ",
+    "block_id": "minecraft:hopper"
+  },
+  {
+    "block_name": " Activator Rail ",
+    "block_id": "minecraft:activator_rail"
+  },
+  {
+    "block_name": " Dropper ",
+    "block_id": "minecraft:dropper"
+  },
+  {
+    "block_name": " Structure Void ",
+    "block_id": "minecraft:structure_void"
+  },
+  {
+    "block_name": " Observer ",
+    "block_id": "minecraft:observer"
+  },
+  {
+    "block_name": " White Shulker Box ",
+    "block_id": "minecraft:white_shulker_box"
+  },
+  {
+    "block_name": " Orange Shulker Box ",
+    "block_id": "minecraft:orange_shulker_box"
+  },
+  {
+    "block_name": " Magenta Shulker Box ",
+    "block_id": "minecraft:magenta_shulker_box"
+  },
+  {
+    "block_name": " Light Blue Shulker Box ",
+    "block_id": "minecraft:light_blue_shulker_box"
+  },
+  {
+    "block_name": " Yellow Shulker Box ",
+    "block_id": "minecraft:yellow_shulker_box"
+  },
+  {
+    "block_name": " Lime Shulker Box ",
+    "block_id": "minecraft:lime_shulker_box"
+  },
+  {
+    "block_name": " Pink Shulker Box ",
+    "block_id": "minecraft:pink_shulker_box"
+  },
+  {
+    "block_name": " Gray Shulker Box ",
+    "block_id": "minecraft:gray_shulker_box"
+  },
+  {
+    "block_name": " Light Gray Shulker Box ",
+    "block_id": "minecraft:light_gray_shulker_box"
+  },
+  {
+    "block_name": " Cyan Shulker Box ",
+    "block_id": "minecraft:cyan_shulker_box"
+  },
+  {
+    "block_name": " Purple Shulker Box ",
+    "block_id": "minecraft:purple_shulker_box"
+  },
+  {
+    "block_name": " Blue Shulker Box ",
+    "block_id": "minecraft:blue_shulker_box"
+  },
+  {
+    "block_name": " Brown Shulker Box ",
+    "block_id": "minecraft:brown_shulker_box"
+  },
+  {
+    "block_name": " Green Shulker Box ",
+    "block_id": "minecraft:green_shulker_box"
+  },
+  {
+    "block_name": " Red Shulker Box ",
+    "block_id": "minecraft:red_shulker_box"
+  },
+  {
+    "block_name": " Black Shulker Box ",
+    "block_id": "minecraft:black_shulker_box"
+  },
+  {
+    "block_name": " Iron Door ",
+    "block_id": "minecraft:iron_door"
+  },
+  {
+    "block_name": " Redstone Repeater ",
+    "block_id": "minecraft:repeater"
+  },
+  {
+    "block_name": " Redstone Comparator ",
+    "block_id": "minecraft:comparator"
+  },
+  {
+    "block_name": " Structure Block ",
+    "block_id": "minecraft:structure_block"
+  },
+  {
+    "block_name": " Minecart ",
+    "block_id": "minecraft:minecart"
+  },
+  {
+    "block_name": " Redstone ",
+    "block_id": "minecraft:redstone"
+  },
+  {
+    "block_name": " Minecart with Chest ",
+    "block_id": "minecraft:chest_minecart"
+  },
+  {
+    "block_name": " Minecart with Furnace ",
+    "block_id": "minecraft:furnace_minecart"
+  },
+  {
+    "block_name": " Fire Charge ",
+    "block_id": "minecraft:fire_charge"
+  },
+  {
+    "block_name": " Firework Rocket ",
+    "block_id": "minecraft:firework_rocket"
+  },
+  {
+    "block_name": " Firework Star ",
+    "block_id": "minecraft:firework_star"
+  },
+  {
+    "block_name": " Minecart with TNT ",
+    "block_id": "minecraft:tnt_minecart"
+  },
+  {
+    "block_name": " Minecart with Hopper ",
+    "block_id": "minecraft:hopper_minecart"
+  },
+  {
+    "block_name": " Minecart with Command Block ",
+    "block_id": "minecraft:command_block_minecart"
+  },
+  {
+    "block_name": " Knowledge Book ",
+    "block_id": "minecraft:knowledge_book"
+  },
+  {
+    "block_name": " Debug Stick ",
+    "block_id": "minecraft:debug_stick"
+  },
+  {
+    "block_name": " Piston Head ",
+    "block_id": "minecraft:piston_head"
+  },
+  {
+    "block_name": " Moving Piston ",
+    "block_id": "minecraft:moving_piston"
+  },
+  {
+    "block_name": " Redstone Wall Torch ",
+    "block_id": "minecraft:redstone_wall_torch"
+  },
+  {
+    "block_name": " Tripwire ",
+    "block_id": "minecraft:tripwire"
+  },
+  {
+    "block_name": " Crimson Pressure Plate ",
+    "block_id": "minecraft:crimson_pressure_plate"
+  },
+  {
+    "block_name": " Warped Pressure Plate ",
+    "block_id": "minecraft:warped_pressure_plate"
+  },
+  {
+    "block_name": " Polished Blackstone Pressure Plate ",
+    "block_id": "minecraft:polished_blackstone_pressure_plate"
+  },
+  {
+    "block_name": " Crimson Trapdoor ",
+    "block_id": "minecraft:crimson_trapdoor"
+  },
+  {
+    "block_name": " Warped Trapdoor ",
+    "block_id": "minecraft:warped_trapdoor"
+  },
+  {
+    "block_name": " Crimson Button ",
+    "block_id": "minecraft:crimson_button"
+  },
+  {
+    "block_name": " Warped Button ",
+    "block_id": "minecraft:warped_button"
+  },
+  {
+    "block_name": " Polished Blackstone Button ",
+    "block_id": "minecraft:polished_blackstone_button"
+  },
+  {
+    "block_name": " Target ",
+    "block_id": "minecraft:target"
+  },
+  {
+    "block_name": " Lightning Rod ",
+    "block_id": "minecraft:lightning_rod"
+  },
+  {
+    "block_name": " Sculk Sensor ",
+    "block_id": "minecraft:sculk_sensor"
+  },
+  {
+    "block_name": " Jukebox ",
+    "block_id": "minecraft:jukebox"
+  },
+  {
+    "block_name": " 13 Disc ",
+    "block_id": "minecraft:music_disc_13"
+  },
+  {
+    "block_name": " Cat Disc ",
+    "block_id": "minecraft:music_disc_cat"
+  },
+  {
+    "block_name": " Blocks Disc ",
+    "block_id": "minecraft:music_disc_blocks"
+  },
+  {
+    "block_name": " Chirp Disc ",
+    "block_id": "minecraft:music_disc_chirp"
+  },
+  {
+    "block_name": " Far Disc ",
+    "block_id": "minecraft:music_disc_far"
+  },
+  {
+    "block_name": " Mall Disc ",
+    "block_id": "minecraft:music_disc_mall"
+  },
+  {
+    "block_name": " Mellohi Disc ",
+    "block_id": "minecraft:music_disc_mellohi"
+  },
+  {
+    "block_name": " Stal Disc ",
+    "block_id": "minecraft:music_disc_stal"
+  },
+  {
+    "block_name": " Strad Disc ",
+    "block_id": "minecraft:music_disc_strad"
+  },
+  {
+    "block_name": " Ward Disc ",
+    "block_id": "minecraft:music_disc_ward"
+  },
+  {
+    "block_name": " 11 Disc ",
+    "block_id": "minecraft:music_disc_11"
+  },
+  {
+    "block_name": " Wait Disc ",
+    "block_id": "minecraft:music_disc_wait"
+  },
+  {
+    "block_name": " Music Disc ",
+    "block_id": "minecraft:music_disc_pigstep"
+  },
+  {
+    "block_name": " Otherside Disc ",
+    "block_id": "minecraft:music_disc_otherside"
+  },
+  {
+    "block_name": " Minecart ",
+    "block_id": "minecraft:minecart"
+  },
+  {
+    "block_name": " Saddle ",
+    "block_id": "minecraft:saddle"
+  },
+  {
+    "block_name": " Oak Boat ",
+    "block_id": "minecraft:oak_boat"
+  },
+  {
+    "block_name": " Minecart with Chest ",
+    "block_id": "minecraft:chest_minecart"
+  },
+  {
+    "block_name": " Minecart with Furnace ",
+    "block_id": "minecraft:furnace_minecart"
+  },
+  {
+    "block_name": " Minecart with TNT ",
+    "block_id": "minecraft:tnt_minecart"
+  },
+  {
+    "block_name": " Minecart with Hopper ",
+    "block_id": "minecraft:hopper_minecart"
+  },
+  {
+    "block_name": " Minecart with Command Block ",
+    "block_id": "minecraft:command_block_minecart"
+  },
+  {
+    "block_name": " Spruce Boat ",
+    "block_id": "minecraft:spruce_boat"
+  },
+  {
+    "block_name": " Birch Boat ",
+    "block_id": "minecraft:birch_boat"
+  },
+  {
+    "block_name": " Jungle Boat ",
+    "block_id": "minecraft:jungle_boat"
+  },
+  {
+    "block_name": " Acacia Boat ",
+    "block_id": "minecraft:acacia_boat"
+  },
+  {
+    "block_name": " Dark Oak Boat ",
+    "block_id": "minecraft:dark_oak_boat"
+  },
+  {
+    "block_name": " Iron Shovel ",
+    "block_id": "minecraft:iron_shovel"
+  },
+  {
+    "block_name": " Iron Pickaxe ",
+    "block_id": "minecraft:iron_pickaxe"
+  },
+  {
+    "block_name": " Iron Axe ",
+    "block_id": "minecraft:iron_axe"
+  },
+  {
+    "block_name": " Flint and Steel ",
+    "block_id": "minecraft:flint_and_steel"
+  },
+  {
+    "block_name": " Bow ",
+    "block_id": "minecraft:bow"
+  },
+  {
+    "block_name": " Wooden Shovel ",
+    "block_id": "minecraft:wooden_shovel"
+  },
+  {
+    "block_name": " Wooden Pickaxe ",
+    "block_id": "minecraft:wooden_pickaxe"
+  },
+  {
+    "block_name": " Wooden Axe ",
+    "block_id": "minecraft:wooden_axe"
+  },
+  {
+    "block_name": " Stone Shovel ",
+    "block_id": "minecraft:stone_shovel"
+  },
+  {
+    "block_name": " Stone Pickaxe ",
+    "block_id": "minecraft:stone_pickaxe"
+  },
+  {
+    "block_name": " Stone Axe ",
+    "block_id": "minecraft:stone_axe"
+  },
+  {
+    "block_name": " Diamond Shovel ",
+    "block_id": "minecraft:diamond_shovel"
+  },
+  {
+    "block_name": " Diamond Pickaxe ",
+    "block_id": "minecraft:diamond_pickaxe"
+  },
+  {
+    "block_name": " Diamond Axe ",
+    "block_id": "minecraft:diamond_axe"
+  },
+  {
+    "block_name": " Golden Shovel ",
+    "block_id": "minecraft:golden_shovel"
+  },
+  {
+    "block_name": " Golden Pickaxe ",
+    "block_id": "minecraft:golden_pickaxe"
+  },
+  {
+    "block_name": " Golden Axe ",
+    "block_id": "minecraft:golden_axe"
+  },
+  {
+    "block_name": " Wooden Hoe ",
+    "block_id": "minecraft:wooden_hoe"
+  },
+  {
+    "block_name": " Stone Hoe ",
+    "block_id": "minecraft:stone_hoe"
+  },
+  {
+    "block_name": " Iron Hoe ",
+    "block_id": "minecraft:iron_hoe"
+  },
+  {
+    "block_name": " Diamond Hoe ",
+    "block_id": "minecraft:diamond_hoe"
+  },
+  {
+    "block_name": " Golden Hoe ",
+    "block_id": "minecraft:golden_hoe"
+  },
+  {
+    "block_name": " Compass ",
+    "block_id": "minecraft:compass"
+  },
+  {
+    "block_name": " Fishing Rod ",
+    "block_id": "minecraft:fishing_rod"
+  },
+  {
+    "block_name": " Clock ",
+    "block_id": "minecraft:clock"
+  },
+  {
+    "block_name": " Map ",
+    "block_id": "minecraft:filled_map"
+  },
+  {
+    "block_name": " Shears ",
+    "block_id": "minecraft:shears"
+  },
+  {
+    "block_name": " Empty Map ",
+    "block_id": "minecraft:map"
+  },
+  {
+    "block_name": " Carrot on a Stick ",
+    "block_id": "minecraft:carrot_on_a_stick"
+  },
+  {
+    "block_name": " Lead ",
+    "block_id": "minecraft:lead"
+  },
+  {
+    "block_name": " Totem of Undying ",
+    "block_id": "minecraft:totem_of_undying"
+  },
+  {
+    "block_name": " Shulker Shell ",
+    "block_id": "minecraft:shulker_shell"
+  },
+  {
+    "block_name": " Iron Nugget ",
+    "block_id": "minecraft:iron_nugget"
+  },
+  {
+    "block_name": " Grindstone ",
+    "block_id": "minecraft:grindstone"
+  },
+  {
+    "block_name": " Stonecutter ",
+    "block_id": "minecraft:stonecutter"
+  },
+  {
+    "block_name": " Bell ",
+    "block_id": "minecraft:bell"
+  },
+  {
+    "block_name": " Lantern ",
+    "block_id": "minecraft:lantern"
+  },
+  {
+    "block_name": " Netherite Shovel ",
+    "block_id": "minecraft:netherite_shovel"
+  },
+  {
+    "block_name": " Netherite Pickaxe ",
+    "block_id": "minecraft:netherite_pickaxe"
+  },
+  {
+    "block_name": " Netherite Axe ",
+    "block_id": "minecraft:netherite_axe"
+  },
+  {
+    "block_name": " Netherite Hoe ",
+    "block_id": "minecraft:netherite_hoe"
+  },
+  {
+    "block_name": " Warped Fungus on a Stick ",
+    "block_id": "minecraft:warped_fungus_on_a_stick"
+  },
+  {
+    "block_name": " Soul Lantern ",
+    "block_id": "minecraft:soul_lantern"
+  },
+  {
+    "block_name": " Soul Campfire ",
+    "block_id": "minecraft:soul_campfire"
+  },
+  {
+    "block_name": " Spyglass ",
+    "block_id": "minecraft:spyglass"
+  },
+  {
+    "block_name": " Bow ",
+    "block_id": "minecraft:bow"
+  },
+  {
+    "block_name": " Arrow ",
+    "block_id": "minecraft:arrow"
+  },
+  {
+    "block_name": " Iron Sword ",
+    "block_id": "minecraft:iron_sword"
+  },
+  {
+    "block_name": " Wooden Sword ",
+    "block_id": "minecraft:wooden_sword"
+  },
+  {
+    "block_name": " Stone Sword ",
+    "block_id": "minecraft:stone_sword"
+  },
+  {
+    "block_name": " Diamond Sword ",
+    "block_id": "minecraft:diamond_sword"
+  },
+  {
+    "block_name": " Golden Sword ",
+    "block_id": "minecraft:golden_sword"
+  },
+  {
+    "block_name": " Spectral Arrow ",
+    "block_id": "minecraft:spectral_arrow"
+  },
+  {
+    "block_name": " Tipped Arrow ",
+    "block_id": "minecraft:tipped_arrow"
+  },
+  {
+    "block_name": " Trident ",
+    "block_id": "minecraft:trident"
+  },
+  {
+    "block_name": " Crossbow ",
+    "block_id": "minecraft:crossbow"
+  },
+  {
+    "block_name": " Netherite Sword ",
+    "block_id": "minecraft:netherite_sword"
+  },
+  {
+    "block_name": " Arrow Loaded Crossbow ",
+    "block_id": "minecraft:crossbow_arrow"
+  },
+  {
+    "block_name": " Firework Loaded Crossbow ",
+    "block_id": "minecraft:crossbow_firework"
+  },
+  {
+    "block_name": " Turtle Shell ",
+    "block_id": "minecraft:turtle_helmet"
+  },
+  {
+    "block_name": " Leather Cap ",
+    "block_id": "minecraft:leather_helmet"
+  },
+  {
+    "block_name": " Leather Tunic ",
+    "block_id": "minecraft:leather_chestplate"
+  },
+  {
+    "block_name": " Leather Pants ",
+    "block_id": "minecraft:leather_leggings"
+  },
+  {
+    "block_name": " Leather Boots ",
+    "block_id": "minecraft:leather_boots"
+  },
+  {
+    "block_name": " Chainmail Helmet ",
+    "block_id": "minecraft:chainmail_helmet"
+  },
+  {
+    "block_name": " Chainmail Chestplate ",
+    "block_id": "minecraft:chainmail_chestplate"
+  },
+  {
+    "block_name": " Chainmail Leggings ",
+    "block_id": "minecraft:chainmail_leggings"
+  },
+  {
+    "block_name": " Chainmail Boots ",
+    "block_id": "minecraft:chainmail_boots"
+  },
+  {
+    "block_name": " Iron Helmet ",
+    "block_id": "minecraft:iron_helmet"
+  },
+  {
+    "block_name": " Iron Chestplate ",
+    "block_id": "minecraft:iron_chestplate"
+  },
+  {
+    "block_name": " Iron Leggings ",
+    "block_id": "minecraft:iron_leggings"
+  },
+  {
+    "block_name": " Iron Boots ",
+    "block_id": "minecraft:iron_boots"
+  },
+  {
+    "block_name": " Diamond Helmet ",
+    "block_id": "minecraft:diamond_helmet"
+  },
+  {
+    "block_name": " Diamond Chestplate ",
+    "block_id": "minecraft:diamond_chestplate"
+  },
+  {
+    "block_name": " Diamond Leggings ",
+    "block_id": "minecraft:diamond_leggings"
+  },
+  {
+    "block_name": " Diamond Boots ",
+    "block_id": "minecraft:diamond_boots"
+  },
+  {
+    "block_name": " Golden Helmet ",
+    "block_id": "minecraft:golden_helmet"
+  },
+  {
+    "block_name": " Golden Chestplate ",
+    "block_id": "minecraft:golden_chestplate"
+  },
+  {
+    "block_name": " Golden Leggings ",
+    "block_id": "minecraft:golden_leggings"
+  },
+  {
+    "block_name": " Golden Boots ",
+    "block_id": "minecraft:golden_boots"
+  },
+  {
+    "block_name": " Iron Horse Armor ",
+    "block_id": "minecraft:iron_horse_armor"
+  },
+  {
+    "block_name": " Golden Horse Armor ",
+    "block_id": "minecraft:golden_horse_armor"
+  },
+  {
+    "block_name": " Diamond Horse Armor ",
+    "block_id": "minecraft:diamond_horse_armor"
+  },
+  {
+    "block_name": " Shield ",
+    "block_id": "minecraft:shield"
+  },
+  {
+    "block_name": " Elytra ",
+    "block_id": "minecraft:elytra"
+  },
+  {
+    "block_name": " Netherite Helmet ",
+    "block_id": "minecraft:netherite_helmet"
+  },
+  {
+    "block_name": " Netherite Chestplate ",
+    "block_id": "minecraft:netherite_chestplate"
+  },
+  {
+    "block_name": " Netherite Leggings ",
+    "block_id": "minecraft:netherite_leggings"
+  },
+  {
+    "block_name": " Netherite Boots ",
+    "block_id": "minecraft:netherite_boots"
+  },
+  {
+    "block_name": " Apple ",
+    "block_id": "minecraft:apple"
+  },
+  {
+    "block_name": " Mushroom Stew ",
+    "block_id": "minecraft:mushroom_stew"
+  },
+  {
+    "block_name": " Bread ",
+    "block_id": "minecraft:bread"
+  },
+  {
+    "block_name": " Raw Porkchop ",
+    "block_id": "minecraft:porkchop"
+  },
+  {
+    "block_name": " Cooked Porkchop ",
+    "block_id": "minecraft:cooked_porkchop"
+  },
+  {
+    "block_name": " Golden Apple ",
+    "block_id": "minecraft:golden_apple"
+  },
+  {
+    "block_name": " Enchanted Golden Apple ",
+    "block_id": "minecraft:enchanted_golden_apple"
+  },
+  {
+    "block_name": " Raw Cod ",
+    "block_id": "minecraft:cod"
+  },
+  {
+    "block_name": " Raw Salmon ",
+    "block_id": "minecraft:salmon"
+  },
+  {
+    "block_name": " Tropical Fish ",
+    "block_id": "minecraft:tropical_fish"
+  },
+  {
+    "block_name": " Pufferfish ",
+    "block_id": "minecraft:pufferfish"
+  },
+  {
+    "block_name": " Cooked Cod ",
+    "block_id": "minecraft:cooked_cod"
+  },
+  {
+    "block_name": " Cooked Salmon ",
+    "block_id": "minecraft:cooked_salmon"
+  },
+  {
+    "block_name": " Cake ",
+    "block_id": "minecraft:cake"
+  },
+  {
+    "block_name": " Cookie ",
+    "block_id": "minecraft:cookie"
+  },
+  {
+    "block_name": " Melon Slice ",
+    "block_id": "minecraft:melon_slice"
+  },
+  {
+    "block_name": " Dried Kelp ",
+    "block_id": "minecraft:dried_kelp"
+  },
+  {
+    "block_name": " Raw Beef ",
+    "block_id": "minecraft:beef"
+  },
+  {
+    "block_name": " Steak ",
+    "block_id": "minecraft:cooked_beef"
+  },
+  {
+    "block_name": " Raw Chicken ",
+    "block_id": "minecraft:chicken"
+  },
+  {
+    "block_name": " Cooked Chicken ",
+    "block_id": "minecraft:cooked_chicken"
+  },
+  {
+    "block_name": " Rotten Flesh ",
+    "block_id": "minecraft:rotten_flesh"
+  },
+  {
+    "block_name": " Carrot ",
+    "block_id": "minecraft:carrot"
+  },
+  {
+    "block_name": " Potato ",
+    "block_id": "minecraft:potato"
+  },
+  {
+    "block_name": " Baked Potato ",
+    "block_id": "minecraft:baked_potato"
+  },
+  {
+    "block_name": " Poisonous Potato ",
+    "block_id": "minecraft:poisonous_potato"
+  },
+  {
+    "block_name": " Golden Carrot ",
+    "block_id": "minecraft:golden_carrot"
+  },
+  {
+    "block_name": " Carrot on a Stick ",
+    "block_id": "minecraft:carrot_on_a_stick"
+  },
+  {
+    "block_name": " Pumpkin Pie ",
+    "block_id": "minecraft:pumpkin_pie"
+  },
+  {
+    "block_name": " Raw Rabbit ",
+    "block_id": "minecraft:rabbit"
+  },
+  {
+    "block_name": " Cooked Rabbit ",
+    "block_id": "minecraft:cooked_rabbit"
+  },
+  {
+    "block_name": " Rabbit Stew ",
+    "block_id": "minecraft:rabbit_stew"
+  },
+  {
+    "block_name": " Raw Mutton ",
+    "block_id": "minecraft:mutton"
+  },
+  {
+    "block_name": " Cooked Mutton ",
+    "block_id": "minecraft:cooked_mutton"
+  },
+  {
+    "block_name": " Chorus Fruit ",
+    "block_id": "minecraft:chorus_fruit"
+  },
+  {
+    "block_name": " Beetroot ",
+    "block_id": "minecraft:beetroot"
+  },
+  {
+    "block_name": " Beetroot Soup ",
+    "block_id": "minecraft:beetroot_soup"
+  },
+  {
+    "block_name": " Suspicious Stew ",
+    "block_id": "minecraft:suspicious_stew"
+  },
+  {
+    "block_name": " Sweet Berries ",
+    "block_id": "minecraft:sweet_berries"
+  },
+  {
+    "block_name": " Honey Bottle ",
+    "block_id": "minecraft:honey_bottle"
+  },
+  {
+    "block_name": " Glow Berries ",
+    "block_id": "minecraft:glow_berries"
+  },
+  {
+    "block_name": " Glowstone Dust ",
+    "block_id": "minecraft:glowstone_dust"
+  },
+  {
+    "block_name": " Sugar ",
+    "block_id": "minecraft:sugar"
+  },
+  {
+    "block_name": " Blaze Rod ",
+    "block_id": "minecraft:blaze_rod"
+  },
+  {
+    "block_name": " Ghast Tear ",
+    "block_id": "minecraft:ghast_tear"
+  },
+  {
+    "block_name": " Gold Nugget ",
+    "block_id": "minecraft:gold_nugget"
+  },
+  {
+    "block_name": " Nether Wart ",
+    "block_id": "minecraft:nether_wart"
+  },
+  {
+    "block_name": " Potion ",
+    "block_id": "minecraft:potion"
+  },
+  {
+    "block_name": " Splash Potion ",
+    "block_id": "minecraft:splash_potion"
+  },
+  {
+    "block_name": " Water Bottle ",
+    "block_id": "minecraft:potion{Potion:water}"
+  },
+  {
+    "block_name": " Uncraftable Potion ",
+    "block_id": "minecraft:potion{Potion:empty}"
+  },
+  {
+    "block_name": " Awkward Potion ",
+    "block_id": "minecraft:potion{Potion:awkward}"
+  },
+  {
+    "block_name": " Thick Potion ",
+    "block_id": "minecraft:potion{Potion:thick}"
+  },
+  {
+    "block_name": " Mundane Potion ",
+    "block_id": "minecraft:potion{Potion:mundane}"
+  },
+  {
+    "block_name": " Regeneration Potion (0:45) ",
+    "block_id": "minecraft:potion{Potion:regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:fire_resistance}"
+  },
+  {
+    "block_name": " Poison Potion (0:45) ",
+    "block_id": "minecraft:potion{Potion:poison}"
+  },
+  {
+    "block_name": " Healing Potion ",
+    "block_id": "minecraft:potion{Potion:healing}"
+  },
+  {
+    "block_name": " Night Vision Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:night_vision}"
+  },
+  {
+    "block_name": " Weakness Potion (1:30) ",
+    "block_id": "minecraft:potion{Potion:weakness}"
+  },
+  {
+    "block_name": " Strength Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:strength}"
+  },
+  {
+    "block_name": " Slowness Potion (1:30) ",
+    "block_id": "minecraft:potion{Potion:slowness}"
+  },
+  {
+    "block_name": " Harming Potion ",
+    "block_id": "minecraft:potion{Potion:harming}"
+  },
+  {
+    "block_name": " Water Breathing Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:invisibility}"
+  },
+  {
+    "block_name": " Regeneration Potion II (0:22) ",
+    "block_id": "minecraft:potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion II (1:30) ",
+    "block_id": "minecraft:potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison Potion II (0:22) ",
+    "block_id": "minecraft:potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Healing Potion II ",
+    "block_id": "minecraft:potion{Potion:strong_healing}"
+  },
+  {
+    "block_name": " Strength Potion II (1:30) ",
+    "block_id": "minecraft:potion{Potion:strong_strength}"
+  },
+  {
+    "block_name": " Leaping Potion II (1:30) ",
+    "block_id": "minecraft:potion{Potion:strong_leaping}"
+  },
+  {
+    "block_name": " Harming Potion II ",
+    "block_id": "minecraft:potion{Potion:strong_harming}"
+  },
+  {
+    "block_name": " Regeneration Potion (2:00) ",
+    "block_id": "minecraft:potion{Potion:long_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_fire_resistance}"
+  },
+  {
+    "block_name": " Poison Potion (2:00) ",
+    "block_id": "minecraft:potion{Potion:long_poison}"
+  },
+  {
+    "block_name": " Night Vision Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_night_vision}"
+  },
+  {
+    "block_name": " Weakness Potion (4:00) ",
+    "block_id": "minecraft:potion{Potion:long_weakness}"
+  },
+  {
+    "block_name": " Strength Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_strength}"
+  },
+  {
+    "block_name": " Slowness Potion (4:00) ",
+    "block_id": "minecraft:potion{Potion:long_slowness}"
+  },
+  {
+    "block_name": " Leaping Potion (3:00) ",
+    "block_id": "minecraft:potion{Potion:leaping}"
+  },
+  {
+    "block_name": " Water Breathing Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Potion (8:00) ",
+    "block_id": "minecraft:potion{Potion:long_invisibility}"
+  },
+  {
+    "block_name": " Regeneration Potion II (1:00) ",
+    "block_id": "minecraft:potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Potion II (4:00) ",
+    "block_id": "minecraft:potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison Potion II (1:00) ",
+    "block_id": "minecraft:potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Strength Potion II (4:00) ",
+    "block_id": "minecraft:potion{Potion:strong_strength}"
+  },
+  {
+    "block_name": " Potion of the Turtle Master (0:20) ",
+    "block_id": "minecraft:potion{Potion:turtle_master}"
+  },
+  {
+    "block_name": " Potion of the Turtle Master (0:40) ",
+    "block_id": "minecraft:potion{Potion:long_turtle_master}"
+  },
+  {
+    "block_name": " Potion of the Turtle Master II (0:20) ",
+    "block_id": "minecraft:potion{Potion:strong_turtle_master}"
+  },
+  {
+    "block_name": " Potion of Slow Falling (1:30) ",
+    "block_id": "minecraft:potion{Potion:slow_falling}"
+  },
+  {
+    "block_name": " Potion of Slow Falling (4:00) ",
+    "block_id": "minecraft:potion{Potion:long_slow_falling}"
+  },
+  {
+    "block_name": " Regeneration Splash (0:33) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:regeneration}"
+  },
+  {
+    "block_name": " Swiftness Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:fire_resistance}"
+  },
+  {
+    "block_name": " Poison Splash (0:33) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:poison}"
+  },
+  {
+    "block_name": " Healing Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:healing}"
+  },
+  {
+    "block_name": " Night Vision Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:night_vision}"
+  },
+  {
+    "block_name": " Weakness Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:weakness}"
+  },
+  {
+    "block_name": " Strength Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strength}"
+  },
+  {
+    "block_name": " Slowness Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:slowness}"
+  },
+  {
+    "block_name": " Harming Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:harming}"
+  },
+  {
+    "block_name": " Water Breathing Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:invisibility}"
+  },
+  {
+    "block_name": " Regeneration II Splash (0:16) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness II Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison II Splash (0:16) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Healing II Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_healing}"
+  },
+  {
+    "block_name": " Strength II Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Leaping II Splash (1:07) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_leaping}"
+  },
+  {
+    "block_name": " Harming II Splash Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_harming}"
+  },
+  {
+    "block_name": " Regeneration Splash (1:30) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_regeneration}"
+  },
+  {
+    "block_name": " Swiftness Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_swiftness}"
+  },
+  {
+    "block_name": " Fire Resistance Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_fire_resistance}"
+  },
+  {
+    "block_name": " Poison Splash (1:30) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_poison}"
+  },
+  {
+    "block_name": " Night Vision Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_night_vision}"
+  },
+  {
+    "block_name": " Weakness Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_weakness}"
+  },
+  {
+    "block_name": " Strength Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_strength}"
+  },
+  {
+    "block_name": " Slowness Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_slowness}"
+  },
+  {
+    "block_name": " Leaping Splash (2:15) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:leaping}"
+  },
+  {
+    "block_name": " Water Breathing Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_water_breathing}"
+  },
+  {
+    "block_name": " Invisibility Splash (6:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:long_invisibility}"
+  },
+  {
+    "block_name": " Regeneration II Splash (0:45) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_regeneration}"
+  },
+  {
+    "block_name": " Swiftness II Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_swiftness}"
+  },
+  {
+    "block_name": " Poison II Splash (0:45) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_poison}"
+  },
+  {
+    "block_name": " Strength II Splash (3:00) Potion ",
+    "block_id": "minecraft:splash_potion{Potion:strong_strength}"
+  },
+  {
+    "block_name": " Splash Turtle Master Potion (0:20) ",
+    "block_id": "minecraft:splash_potion{Potion:turtle_master}"
+  },
+  {
+    "block_name": " Splash Turtle Master Potion (0:40) ",
+    "block_id": "minecraft:splash_potion{Potion:long_turtle_master}"
+  },
+  {
+    "block_name": " Splash Turtle Master Potion II (0:20) ",
+    "block_id": "minecraft:splash_potion{Potion:strong_turtle_master}"
+  },
+  {
+    "block_name": " Splash Slow Falling Potion (1:30) ",
+    "block_id": "minecraft:splash_potion{Potion:slow_falling}"
+  },
+  {
+    "block_name": " Splash Slow Falling Potion (4:00) ",
+    "block_id": "minecraft:splash_potion{Potion:long_slow_falling}"
+  },
+  {
+    "block_name": " Glass Bottle ",
+    "block_id": "minecraft:glass_bottle"
+  },
+  {
+    "block_name": " Spider Eye ",
+    "block_id": "minecraft:spider_eye"
+  },
+  {
+    "block_name": " Fermented Spider Eye ",
+    "block_id": "minecraft:fermented_spider_eye"
+  },
+  {
+    "block_name": " Blaze Powder ",
+    "block_id": "minecraft:blaze_powder"
+  },
+  {
+    "block_name": " Magma Cream ",
+    "block_id": "minecraft:magma_cream"
+  },
+  {
+    "block_name": " Brewing Stand ",
+    "block_id": "minecraft:brewing_stand"
+  },
+  {
+    "block_name": " Cauldron ",
+    "block_id": "minecraft:cauldron"
+  },
+  {
+    "block_name": " Glistering Melon Slice ",
+    "block_id": "minecraft:glistering_melon_slice"
+  },
+  {
+    "block_name": " Bottle o' Enchanting ",
+    "block_id": "minecraft:experience_bottle"
+  },
+  {
+    "block_name": " Golden Carrot ",
+    "block_id": "minecraft:golden_carrot"
+  },
+  {
+    "block_name": " Rabbit's Foot ",
+    "block_id": "minecraft:rabbit_foot"
+  },
+  {
+    "block_name": " Dragon's Breath ",
+    "block_id": "minecraft:dragon_breath"
+  },
+  {
+    "block_name": " Phantom Membrane ",
+    "block_id": "minecraft:phantom_membrane"
+  },
+  {
+    "block_name": " Gold Ore ",
+    "block_id": "minecraft:gold_ore"
+  },
+  {
+    "block_name": " Iron Ore ",
+    "block_id": "minecraft:iron_ore"
+  },
+  {
+    "block_name": " Coal Ore ",
+    "block_id": "minecraft:coal_ore"
+  },
+  {
+    "block_name": " Lapis Lazuli Ore ",
+    "block_id": "minecraft:lapis_ore"
+  },
+  {
+    "block_name": " Diamond Ore ",
+    "block_id": "minecraft:diamond_ore"
+  },
+  {
+    "block_name": " Redstone Ore ",
+    "block_id": "minecraft:redstone_ore"
+  },
+  {
+    "block_name": " Emerald Ore ",
+    "block_id": "minecraft:emerald_ore"
+  },
+  {
+    "block_name": " Nether Gold Ore ",
+    "block_id": "minecraft:nether_gold_ore"
+  },
+  {
+    "block_name": " Ancient Debris ",
+    "block_id": "minecraft:ancient_debris"
+  },
+  {
+    "block_name": " Copper Ore ",
+    "block_id": "minecraft:copper_ore"
+  },
+  {
+    "block_name": " Deepslate Coal Ore ",
+    "block_id": "minecraft:deepslate_coal_ore"
+  },
+  {
+    "block_name": " Deepslate Copper Ore ",
+    "block_id": "minecraft:deepslate_copper_ore"
+  },
+  {
+    "block_name": " Deepslate Diamond Ore ",
+    "block_id": "minecraft:deepslate_diamond_ore"
+  },
+  {
+    "block_name": " Deepslate Emerald Ore ",
+    "block_id": "minecraft:deepslate_emerald_ore"
+  },
+  {
+    "block_name": " Deepslate Gold Ore ",
+    "block_id": "minecraft:deepslate_gold_ore"
+  },
+  {
+    "block_name": " Deepslate Iron Ore ",
+    "block_id": "minecraft:deepslate_iron_ore"
+  },
+  {
+    "block_name": " Deepslate Lapis Lazuli Ore ",
+    "block_id": "minecraft:deepslate_lapis_ore"
+  },
+  {
+    "block_name": " Deepslate Redstone Ore ",
+    "block_id": "minecraft:deepslate_redstone_ore"
+  },
+  {
+    "block_name": " Oak Planks ",
+    "block_id": "minecraft:oak_planks"
+  },
+  {
+    "block_name": " Spruce Planks ",
+    "block_id": "minecraft:spruce_planks"
+  },
+  {
+    "block_name": " Birch Planks ",
+    "block_id": "minecraft:birch_planks"
+  },
+  {
+    "block_name": " Jungle Planks ",
+    "block_id": "minecraft:jungle_planks"
+  },
+  {
+    "block_name": " Acacia Planks ",
+    "block_id": "minecraft:acacia_planks"
+  },
+  {
+    "block_name": " Dark Oak Planks ",
+    "block_id": "minecraft:dark_oak_planks"
+  },
+  {
+    "block_name": " Oak Sapling ",
+    "block_id": "minecraft:oak_sapling"
+  },
+  {
+    "block_name": " Spruce Sapling ",
+    "block_id": "minecraft:spruce_sapling"
+  },
+  {
+    "block_name": " Birch Sapling ",
+    "block_id": "minecraft:birch_sapling"
+  },
+  {
+    "block_name": " Jungle Sapling ",
+    "block_id": "minecraft:jungle_sapling"
+  },
+  {
+    "block_name": " Acacia Sapling ",
+    "block_id": "minecraft:acacia_sapling"
+  },
+  {
+    "block_name": " Dark Oak Sapling ",
+    "block_id": "minecraft:dark_oak_sapling"
+  },
+  {
+    "block_name": " Brown Mushroom ",
+    "block_id": "minecraft:brown_mushroom"
+  },
+  {
+    "block_name": " Red Mushroom ",
+    "block_id": "minecraft:red_mushroom"
+  },
+  {
+    "block_name": " Torch ",
+    "block_id": "minecraft:torch"
+  },
+  {
+    "block_name": " Clay ",
+    "block_id": "minecraft:clay"
+  },
+  {
+    "block_name": " Coal ",
+    "block_id": "minecraft:coal"
+  },
+  {
+    "block_name": " Charcoal ",
+    "block_id": "minecraft:charcoal"
+  },
+  {
+    "block_name": " Diamond ",
+    "block_id": "minecraft:diamond"
+  },
+  {
+    "block_name": " Iron Ingot ",
+    "block_id": "minecraft:iron_ingot"
+  },
+  {
+    "block_name": " Gold Ingot ",
+    "block_id": "minecraft:gold_ingot"
+  },
+  {
+    "block_name": " Stick ",
+    "block_id": "minecraft:stick"
+  },
+  {
+    "block_name": " Bowl ",
+    "block_id": "minecraft:bowl"
+  },
+  {
+    "block_name": " String ",
+    "block_id": "minecraft:string"
+  },
+  {
+    "block_name": " Feather ",
+    "block_id": "minecraft:feather"
+  },
+  {
+    "block_name": " Gunpowder ",
+    "block_id": "minecraft:gunpowder"
+  },
+  {
+    "block_name": " Wheat Seeds ",
+    "block_id": "minecraft:wheat_seeds"
+  },
+  {
+    "block_name": " Wheat ",
+    "block_id": "minecraft:wheat"
+  },
+  {
+    "block_name": " Flint ",
+    "block_id": "minecraft:flint"
+  },
+  {
+    "block_name": " Bucket ",
+    "block_id": "minecraft:bucket"
+  },
+  {
+    "block_name": " Water Bucket ",
+    "block_id": "minecraft:water_bucket"
+  },
+  {
+    "block_name": " Lava Bucket ",
+    "block_id": "minecraft:lava_bucket"
+  },
+  {
+    "block_name": " Redstone ",
+    "block_id": "minecraft:redstone"
+  },
+  {
+    "block_name": " Snowball ",
+    "block_id": "minecraft:snowball"
+  },
+  {
+    "block_name": " Leather ",
+    "block_id": "minecraft:leather"
+  },
+  {
+    "block_name": " Milk Bucket ",
+    "block_id": "minecraft:milk_bucket"
+  },
+  {
+    "block_name": " Brick ",
+    "block_id": "minecraft:brick"
+  },
+  {
+    "block_name": " Sugar Cane ",
+    "block_id": "minecraft:sugar_cane"
+  },
+  {
+    "block_name": " Kelp ",
+    "block_id": "minecraft:kelp"
+  },
+  {
+    "block_name": " Paper ",
+    "block_id": "minecraft:paper"
+  },
+  {
+    "block_name": " Book ",
+    "block_id": "minecraft:book"
+  },
+  {
+    "block_name": " Slimeball ",
+    "block_id": "minecraft:slime_ball"
+  },
+  {
+    "block_name": " Egg ",
+    "block_id": "minecraft:egg"
+  },
+  {
+    "block_name": " Glowstone Dust ",
+    "block_id": "minecraft:glowstone_dust"
+  },
+  {
+    "block_name": " Cocoa Beans ",
+    "block_id": "minecraft:cocoa_beans"
+  },
+  {
+    "block_name": " Lapis Lazuli ",
+    "block_id": "minecraft:lapis_lazuli"
+  },
+  {
+    "block_name": " Bone Meal ",
+    "block_id": "minecraft:bone_meal"
+  },
+  {
+    "block_name": " Bone ",
+    "block_id": "minecraft:bone"
+  },
+  {
+    "block_name": " Sugar ",
+    "block_id": "minecraft:sugar"
+  },
+  {
+    "block_name": " Map ",
+    "block_id": "minecraft:filled_map"
+  },
+  {
+    "block_name": " Pumpkin Seeds ",
+    "block_id": "minecraft:pumpkin_seeds"
+  },
+  {
+    "block_name": " Melon Seeds ",
+    "block_id": "minecraft:melon_seeds"
+  },
+  {
+    "block_name": " Rotten Flesh ",
+    "block_id": "minecraft:rotten_flesh"
+  },
+  {
+    "block_name": " Ender Pearl ",
+    "block_id": "minecraft:ender_pearl"
+  },
+  {
+    "block_name": " Blaze Rod ",
+    "block_id": "minecraft:blaze_rod"
+  },
+  {
+    "block_name": " Ghast Tear ",
+    "block_id": "minecraft:ghast_tear"
+  },
+  {
+    "block_name": " Gold Nugget ",
+    "block_id": "minecraft:gold_nugget"
+  },
+  {
+    "block_name": " Nether Wart ",
+    "block_id": "minecraft:nether_wart"
+  },
+  {
+    "block_name": " Potion ",
+    "block_id": "minecraft:potion"
+  },
+  {
+    "block_name": " Splash Potion ",
+    "block_id": "minecraft:splash_potion"
+  },
+  {
+    "block_name": " Awkward Potion ",
+    "block_id": "minecraft:potion{Potion:awkward}"
+  },
+  {
+    "block_name": " Thick Potion ",
+    "block_id": "minecraft:potion{Potion:thick}"
+  },
+  {
+    "block_name": " Mundane Potion ",
+    "block_id": "minecraft:potion{Potion:mundane}"
+  },
+  {
+    "block_name": " Glass Bottle ",
+    "block_id": "minecraft:glass_bottle"
+  },
+  {
+    "block_name": " Spider Eye ",
+    "block_id": "minecraft:spider_eye"
+  },
+  {
+    "block_name": " Fermented Spider Eye ",
+    "block_id": "minecraft:fermented_spider_eye"
+  },
+  {
+    "block_name": " Blaze Powder ",
+    "block_id": "minecraft:blaze_powder"
+  },
+  {
+    "block_name": " Magma Cream ",
+    "block_id": "minecraft:magma_cream"
+  },
+  {
+    "block_name": " Brewing Stand ",
+    "block_id": "minecraft:brewing_stand"
+  },
+  {
+    "block_name": " Cauldron ",
+    "block_id": "minecraft:cauldron"
+  },
+  {
+    "block_name": " Eye of Ender ",
+    "block_id": "minecraft:ender_eye"
+  },
+  {
+    "block_name": " Glistering Melon Slice ",
+    "block_id": "minecraft:glistering_melon_slice"
+  },
+  {
+    "block_name": " Bottle o' Enchanting ",
+    "block_id": "minecraft:experience_bottle"
+  },
+  {
+    "block_name": " Fire Charge ",
+    "block_id": "minecraft:fire_charge"
+  },
+  {
+    "block_name": " Book and Quill ",
+    "block_id": "minecraft:writable_book"
+  },
+  {
+    "block_name": " Written Book ",
+    "block_id": "minecraft:written_book"
+  },
+  {
+    "block_name": " Emerald ",
+    "block_id": "minecraft:emerald"
+  },
+  {
+    "block_name": " Empty Map ",
+    "block_id": "minecraft:map"
+  },
+  {
+    "block_name": " Nether Star ",
+    "block_id": "minecraft:nether_star"
+  },
+  {
+    "block_name": " Firework Rocket ",
+    "block_id": "minecraft:firework_rocket"
+  },
+  {
+    "block_name": " Firework Star ",
+    "block_id": "minecraft:firework_star"
+  },
+  {
+    "block_name": " Enchanted Book ",
+    "block_id": "minecraft:enchanted_book"
+  },
+  {
+    "block_name": " Nether Brick ",
+    "block_id": "minecraft:nether_brick"
+  },
+  {
+    "block_name": " Nether Quartz ",
+    "block_id": "minecraft:quartz"
+  },
+  {
+    "block_name": " Prismarine Shard ",
+    "block_id": "minecraft:prismarine_shard"
+  },
+  {
+    "block_name": " Prismarine Crystals ",
+    "block_id": "minecraft:prismarine_crystals"
+  },
+  {
+    "block_name": " Rabbit Hide ",
+    "block_id": "minecraft:rabbit_hide"
+  },
+  {
+    "block_name": " Name Tag ",
+    "block_id": "minecraft:name_tag"
+  },
+  {
+    "block_name": " Popped Chorus Fruit ",
+    "block_id": "minecraft:popped_chorus_fruit"
+  },
+  {
+    "block_name": " Beetroot Seeds ",
+    "block_id": "minecraft:beetroot_seeds"
+  },
+  {
+    "block_name": " Dragon's Breath ",
+    "block_id": "minecraft:dragon_breath"
+  },
+  {
+    "block_name": " Wall Torch ",
+    "block_id": "minecraft:wall_torch"
+  },
+  {
+    "block_name": " Bamboo ",
+    "block_id": "minecraft:bamboo"
+  },
+  {
+    "block_name": " Honeycomb ",
+    "block_id": "minecraft:honeycomb"
+  },
+  {
+    "block_name": " Bamboo Sapling ",
+    "block_id": "minecraft:bamboo_sapling"
+  },
+  {
+    "block_name": " Crimson Fungus ",
+    "block_id": "minecraft:crimson_fungus"
+  },
+  {
+    "block_name": " Warped Fungus ",
+    "block_id": "minecraft:warped_fungus"
+  },
+  {
+    "block_name": " Crimson Roots ",
+    "block_id": "minecraft:crimson_roots"
+  },
+  {
+    "block_name": " Warped Roots ",
+    "block_id": "minecraft:warped_roots"
+  },
+  {
+    "block_name": " Nether Sprouts ",
+    "block_id": "minecraft:nether_sprouts"
+  },
+  {
+    "block_name": " Soul Torch ",
+    "block_id": "minecraft:soul_torch"
+  },
+  {
+    "block_name": " Chain ",
+    "block_id": "minecraft:chain"
+  },
+  {
+    "block_name": " Netherite Ingot ",
+    "block_id": "minecraft:netherite_ingot"
+  },
+  {
+    "block_name": " Netherite Scrap ",
+    "block_id": "minecraft:netherite_scrap"
+  },
+  {
+    "block_name": " Amethyst Shard ",
+    "block_id": "minecraft:amethyst_shard"
+  },
+  {
+    "block_name": " Bucket of Axolotl ",
+    "block_id": "minecraft:axolotl_bucket"
+  },
+  {
+    "block_name": " Calcite ",
+    "block_id": "minecraft:calcite"
+  },
+  {
+    "block_name": " Copper Ingot ",
+    "block_id": "minecraft:copper_ingot"
+  },
+  {
+    "block_name": " Deepslate ",
+    "block_id": "minecraft:deepslate"
+  },
+  {
+    "block_name": " Glow Ink Sac ",
+    "block_id": "minecraft:glow_ink_sac"
+  },
+  {
+    "block_name": " Powder Snow Bucket ",
+    "block_id": "minecraft:powder_snow_bucket"
+  },
+  {
+    "block_name": " Raw Copper ",
+    "block_id": "minecraft:raw_copper"
+  },
+  {
+    "block_name": " Raw Gold ",
+    "block_id": "minecraft:raw_gold"
+  },
+  {
+    "block_name": " Raw Iron ",
+    "block_id": "minecraft:raw_iron"
+  },
+  {
+    "block_name": " Glass Pane ",
+    "block_id": "minecraft:glass_pane"
+  },
+  {
+    "block_name": " White Stained Glass ",
+    "block_id": "minecraft:white_stained_glass"
+  },
+  {
+    "block_name": " Orange Stained Glass ",
+    "block_id": "minecraft:orange_stained_glass"
+  },
+  {
+    "block_name": " Magenta Stained Glass ",
+    "block_id": "minecraft:magenta_stained_glass"
+  },
+  {
+    "block_name": " Light Blue Stained Glass ",
+    "block_id": "minecraft:light_blue_stained_glass"
+  },
+  {
+    "block_name": " Yellow Stained Glass ",
+    "block_id": "minecraft:yellow_stained_glass"
+  },
+  {
+    "block_name": " Lime Stained Glass ",
+    "block_id": "minecraft:lime_stained_glass"
+  },
+  {
+    "block_name": " Pink Stained Glass ",
+    "block_id": "minecraft:pink_stained_glass"
+  },
+  {
+    "block_name": " Gray Stained Glass ",
+    "block_id": "minecraft:gray_stained_glass"
+  },
+  {
+    "block_name": " Light Gray Stained Glass ",
+    "block_id": "minecraft:light_gray_stained_glass"
+  },
+  {
+    "block_name": " Cyan Stained Glass ",
+    "block_id": "minecraft:cyan_stained_glass"
+  },
+  {
+    "block_name": " Purple Stained Glass ",
+    "block_id": "minecraft:purple_stained_glass"
+  },
+  {
+    "block_name": " Blue Stained Glass ",
+    "block_id": "minecraft:blue_stained_glass"
+  },
+  {
+    "block_name": " Brown Stained Glass ",
+    "block_id": "minecraft:brown_stained_glass"
+  },
+  {
+    "block_name": " Green Stained Glass ",
+    "block_id": "minecraft:green_stained_glass"
+  },
+  {
+    "block_name": " Red Stained Glass ",
+    "block_id": "minecraft:red_stained_glass"
+  },
+  {
+    "block_name": " Black Stained Glass ",
+    "block_id": "minecraft:black_stained_glass"
+  },
+  {
+    "block_name": " White Stained Glass Pane ",
+    "block_id": "minecraft:white_stained_glass_pane"
+  },
+  {
+    "block_name": " Orange Stained Glass Pane ",
+    "block_id": "minecraft:orange_stained_glass_pane"
+  },
+  {
+    "block_name": " Magenta Stained Glass Pane ",
+    "block_id": "minecraft:magenta_stained_glass_pane"
+  },
+  {
+    "block_name": " Light Blue Stained Glass Pane ",
+    "block_id": "minecraft:light_blue_stained_glass_pane"
+  },
+  {
+    "block_name": " Yellow Stained Glass Pane ",
+    "block_id": "minecraft:yellow_stained_glass_pane"
+  },
+  {
+    "block_name": " Lime Stained Glass Pane ",
+    "block_id": "minecraft:lime_stained_glass_pane"
+  },
+  {
+    "block_name": " Pink Stained Glass Pane ",
+    "block_id": "minecraft:pink_stained_glass_pane"
+  },
+  {
+    "block_name": " Gray Stained Glass Pane ",
+    "block_id": "minecraft:gray_stained_glass_pane"
+  },
+  {
+    "block_name": " Light Gray Stained Glass Pane ",
+    "block_id": "minecraft:light_gray_stained_glass_pane"
+  },
+  {
+    "block_name": " Cyan Stained Glass Pane ",
+    "block_id": "minecraft:cyan_stained_glass_pane"
+  },
+  {
+    "block_name": " Purple Stained Glass Pane ",
+    "block_id": "minecraft:purple_stained_glass_pane"
+  },
+  {
+    "block_name": " Blue Stained Glass Pane ",
+    "block_id": "minecraft:blue_stained_glass_pane"
+  },
+  {
+    "block_name": " Brown Stained Glass Pane ",
+    "block_id": "minecraft:brown_stained_glass_pane"
+  },
+  {
+    "block_name": " Green Stained Glass Pane ",
+    "block_id": "minecraft:green_stained_glass_pane"
+  },
+  {
+    "block_name": " Red Stained Glass Pane ",
+    "block_id": "minecraft:red_stained_glass_pane"
+  },
+  {
+    "block_name": " Black Stained Glass Pane ",
+    "block_id": "minecraft:black_stained_glass_pane"
+  },
+  {
+    "block_name": " Tinted Glass ",
+    "block_id": "minecraft:tinted_glass"
+  },
+  {
+    "block_name": " White Wool ",
+    "block_id": "minecraft:white_wool"
+  },
+  {
+    "block_name": " Orange Wool ",
+    "block_id": "minecraft:orange_wool"
+  },
+  {
+    "block_name": " Magenta Wool ",
+    "block_id": "minecraft:magenta_wool"
+  },
+  {
+    "block_name": " Light Blue Wool ",
+    "block_id": "minecraft:light_blue_wool"
+  },
+  {
+    "block_name": " Yellow Wool ",
+    "block_id": "minecraft:yellow_wool"
+  },
+  {
+    "block_name": " Lime Wool ",
+    "block_id": "minecraft:lime_wool"
+  },
+  {
+    "block_name": " Pink Wool ",
+    "block_id": "minecraft:pink_wool"
+  },
+  {
+    "block_name": " Gray Wool ",
+    "block_id": "minecraft:gray_wool"
+  },
+  {
+    "block_name": " Light Gray Wool ",
+    "block_id": "minecraft:light_gray_wool"
+  },
+  {
+    "block_name": " Cyan Wool ",
+    "block_id": "minecraft:cyan_wool"
+  },
+  {
+    "block_name": " Purple Wool ",
+    "block_id": "minecraft:purple_wool"
+  },
+  {
+    "block_name": " Blue Wool ",
+    "block_id": "minecraft:blue_wool"
+  },
+  {
+    "block_name": " Brown Wool ",
+    "block_id": "minecraft:brown_wool"
+  },
+  {
+    "block_name": " Green Wool ",
+    "block_id": "minecraft:green_wool"
+  },
+  {
+    "block_name": " Red Wool ",
+    "block_id": "minecraft:red_wool"
+  },
+  {
+    "block_name": " Black Wool ",
+    "block_id": "minecraft:black_wool"
+  },
+  {
+    "block_name": " White Terracotta ",
+    "block_id": "minecraft:white_terracotta"
+  },
+  {
+    "block_name": " Orange Terracotta ",
+    "block_id": "minecraft:orange_terracotta"
+  },
+  {
+    "block_name": " Magenta Terracotta ",
+    "block_id": "minecraft:magenta_terracotta"
+  },
+  {
+    "block_name": " Light Blue Terracotta ",
+    "block_id": "minecraft:light_blue_terracotta"
+  },
+  {
+    "block_name": " Yellow Terracotta ",
+    "block_id": "minecraft:yellow_terracotta"
+  },
+  {
+    "block_name": " Lime Terracotta ",
+    "block_id": "minecraft:lime_terracotta"
+  },
+  {
+    "block_name": " Pink Terracotta ",
+    "block_id": "minecraft:pink_terracotta"
+  },
+  {
+    "block_name": " Gray Terracotta ",
+    "block_id": "minecraft:gray_terracotta"
+  },
+  {
+    "block_name": " Light Gray Terracotta ",
+    "block_id": "minecraft:light_gray_terracotta"
+  },
+  {
+    "block_name": " Cyan Terracotta ",
+    "block_id": "minecraft:cyan_terracotta"
+  },
+  {
+    "block_name": " Purple Terracotta ",
+    "block_id": "minecraft:purple_terracotta"
+  },
+  {
+    "block_name": " Blue Terracotta ",
+    "block_id": "minecraft:blue_terracotta"
+  },
+  {
+    "block_name": " Brown Terracotta ",
+    "block_id": "minecraft:brown_terracotta"
+  },
+  {
+    "block_name": " Green Terracotta ",
+    "block_id": "minecraft:green_terracotta"
+  },
+  {
+    "block_name": " Red Terracotta ",
+    "block_id": "minecraft:red_terracotta"
+  },
+  {
+    "block_name": " Black Terracotta ",
+    "block_id": "minecraft:black_terracotta"
+  },
+  {
+    "block_name": " Terracotta ",
+    "block_id": "minecraft:terracotta"
+  },
+  {
+    "block_name": " White Glazed Terracotta ",
+    "block_id": "minecraft:white_glazed_terracotta"
+  },
+  {
+    "block_name": " Orange Glazed Terracotta ",
+    "block_id": "minecraft:orange_glazed_terracotta"
+  },
+  {
+    "block_name": " Magenta Glazed Terracotta ",
+    "block_id": "minecraft:magenta_glazed_terracotta"
+  },
+  {
+    "block_name": " Light Blue Glazed Terracotta ",
+    "block_id": "minecraft:light_blue_glazed_terracotta"
+  },
+  {
+    "block_name": " Yellow Glazed Terracotta ",
+    "block_id": "minecraft:yellow_glazed_terracotta"
+  },
+  {
+    "block_name": " Lime Glazed Terracotta ",
+    "block_id": "minecraft:lime_glazed_terracotta"
+  },
+  {
+    "block_name": " Pink Glazed Terracotta ",
+    "block_id": "minecraft:pink_glazed_terracotta"
+  },
+  {
+    "block_name": " Gray Glazed Terracotta ",
+    "block_id": "minecraft:gray_glazed_terracotta"
+  },
+  {
+    "block_name": " Light Gray Glazed Terracotta ",
+    "block_id": "minecraft:light_gray_glazed_terracotta"
+  },
+  {
+    "block_name": " Cyan Glazed Terracotta ",
+    "block_id": "minecraft:cyan_glazed_terracotta"
+  },
+  {
+    "block_name": " Purple Glazed Terracotta ",
+    "block_id": "minecraft:purple_glazed_terracotta"
+  },
+  {
+    "block_name": " Blue Glazed Terracotta ",
+    "block_id": "minecraft:blue_glazed_terracotta"
+  },
+  {
+    "block_name": " Brown Glazed Terracotta ",
+    "block_id": "minecraft:brown_glazed_terracotta"
+  },
+  {
+    "block_name": " Green Glazed Terracotta ",
+    "block_id": "minecraft:green_glazed_terracotta"
+  },
+  {
+    "block_name": " Red Glazed Terracotta ",
+    "block_id": "minecraft:red_glazed_terracotta"
+  },
+  {
+    "block_name": " Black Glazed Terracotta ",
+    "block_id": "minecraft:black_glazed_terracotta"
+  },
+  {
+    "block_name": " Clay ",
+    "block_id": "minecraft:clay_ball"
+  },
+  {
+    "block_name": " Dandelion ",
+    "block_id": "minecraft:dandelion"
+  },
+  {
+    "block_name": " Poppy ",
+    "block_id": "minecraft:poppy"
+  },
+  {
+    "block_name": " Blue Orchid ",
+    "block_id": "minecraft:blue_orchid"
+  },
+  {
+    "block_name": " Allium ",
+    "block_id": "minecraft:allium"
+  },
+  {
+    "block_name": " Azure Bluet ",
+    "block_id": "minecraft:azure_bluet"
+  },
+  {
+    "block_name": " Red Tulip ",
+    "block_id": "minecraft:red_tulip"
+  },
+  {
+    "block_name": " Orange Tulip ",
+    "block_id": "minecraft:orange_tulip"
+  },
+  {
+    "block_name": " White Tulip ",
+    "block_id": "minecraft:white_tulip"
+  },
+  {
+    "block_name": " Pink Tulip ",
+    "block_id": "minecraft:pink_tulip"
+  },
+  {
+    "block_name": " Oxeye Daisy ",
+    "block_id": "minecraft:oxeye_daisy"
+  },
+  {
+    "block_name": " Brown Mushroom ",
+    "block_id": "minecraft:brown_mushroom"
+  },
+  {
+    "block_name": " Red Mushroom ",
+    "block_id": "minecraft:red_mushroom"
+  },
+  {
+    "block_name": " Sunflower ",
+    "block_id": "minecraft:sunflower"
+  },
+  {
+    "block_name": " Lilac ",
+    "block_id": "minecraft:lilac"
+  },
+  {
+    "block_name": " Rose Bush ",
+    "block_id": "minecraft:rose_bush"
+  },
+  {
+    "block_name": " Peony ",
+    "block_id": "minecraft:peony"
+  },
+  {
+    "block_name": " Tall Grass ",
+    "block_id": "minecraft:tall_grass"
+  },
+  {
+    "block_name": " Large Fern ",
+    "block_id": "minecraft:large_fern"
+  },
+  {
+    "block_name": " Cornflower ",
+    "block_id": "minecraft:cornflower"
+  },
+  {
+    "block_name": " Lily of the Valley ",
+    "block_id": "minecraft:lily_of_the_valley"
+  },
+  {
+    "block_name": " Wither Rose ",
+    "block_id": "minecraft:wither_rose"
+  },
+  {
+    "block_name": " Crimson Fungus ",
+    "block_id": "minecraft:crimson_fungus"
+  },
+  {
+    "block_name": " Warped Fungus ",
+    "block_id": "minecraft:warped_fungus"
+  },
+  {
+    "block_name": " Crimson Roots ",
+    "block_id": "minecraft:crimson_roots"
+  },
+  {
+    "block_name": " Warped Roots ",
+    "block_id": "minecraft:warped_roots"
+  },
+  {
+    "block_name": " Nether Sprouts ",
+    "block_id": "minecraft:nether_sprouts"
+  },
+  {
+    "block_name": " Azalea ",
+    "block_id": "minecraft:azalea"
+  },
+  {
+    "block_name": " Flowering Azalea ",
+    "block_id": "minecraft:flowering_azalea"
+  },
+  {
+    "block_name": " Spore Blossom ",
+    "block_id": "minecraft:spore_blossom"
+  },
+  {
+    "block_name": " Ink Sac ",
+    "block_id": "minecraft:ink_sac"
+  },
+  {
+    "block_name": " Rose Red ",
+    "block_id": "minecraft:rose_red"
+  },
+  {
+    "block_name": " Cactus Green ",
+    "block_id": "minecraft:cactus_green"
+  },
+  {
+    "block_name": " Cocoa Beans ",
+    "block_id": "minecraft:cocoa_beans"
+  },
+  {
+    "block_name": " Lapis Lazuli ",
+    "block_id": "minecraft:lapis_lazuli"
+  },
+  {
+    "block_name": " Purple Dye ",
+    "block_id": "minecraft:purple_dye"
+  },
+  {
+    "block_name": " Cyan Dye ",
+    "block_id": "minecraft:cyan_dye"
+  },
+  {
+    "block_name": " Light Gray Dye ",
+    "block_id": "minecraft:light_gray_dye"
+  },
+  {
+    "block_name": " Gray Dye ",
+    "block_id": "minecraft:gray_dye"
+  },
+  {
+    "block_name": " Pink Dye ",
+    "block_id": "minecraft:pink_dye"
+  },
+  {
+    "block_name": " Lime Dye ",
+    "block_id": "minecraft:lime_dye"
+  },
+  {
+    "block_name": " Dandelion Yellow ",
+    "block_id": "minecraft:dandelion_yellow"
+  },
+  {
+    "block_name": " Light Blue Dye ",
+    "block_id": "minecraft:light_blue_dye"
+  },
+  {
+    "block_name": " Magenta Dye ",
+    "block_id": "minecraft:magenta_dye"
+  },
+  {
+    "block_name": " Orange Dye ",
+    "block_id": "minecraft:orange_dye"
+  },
+  {
+    "block_name": " Bone Meal ",
+    "block_id": "minecraft:bone_meal"
+  },
+  {
+    "block_name": " Red Dye ",
+    "block_id": "minecraft:red_dye"
+  },
+  {
+    "block_name": " Green Dye ",
+    "block_id": "minecraft:green_dye"
+  },
+  {
+    "block_name": " Yellow Dye ",
+    "block_id": "minecraft:yellow_dye"
+  },
+  {
+    "block_name": " Blue Dye ",
+    "block_id": "minecraft:blue_dye"
+  },
+  {
+    "block_name": " Brown Dye ",
+    "block_id": "minecraft:brown_dye"
+  },
+  {
+    "block_name": " Black Dye ",
+    "block_id": "minecraft:black_dye"
+  },
+  {
+    "block_name": " White Dye ",
+    "block_id": "minecraft:white_dye"
+  },
+  {
+    "block_name": " Oak Slab ",
+    "block_id": "minecraft:oak_slab"
+  },
+  {
+    "block_name": " Spruce Slab ",
+    "block_id": "minecraft:spruce_slab"
+  },
+  {
+    "block_name": " Birch Slab ",
+    "block_id": "minecraft:birch_slab"
+  },
+  {
+    "block_name": " Jungle Slab ",
+    "block_id": "minecraft:jungle_slab"
+  },
+  {
+    "block_name": " Acacia Slab ",
+    "block_id": "minecraft:acacia_slab"
+  },
+  {
+    "block_name": " Dark Oak Slab ",
+    "block_id": "minecraft:dark_oak_slab"
+  },
+  {
+    "block_name": " Stone Slab ",
+    "block_id": "minecraft:stone_slab"
+  },
+  {
+    "block_name": " Sandstone Slab ",
+    "block_id": "minecraft:sandstone_slab"
+  },
+  {
+    "block_name": " Cobblestone Slab ",
+    "block_id": "minecraft:cobblestone_slab"
+  },
+  {
+    "block_name": " Brick Slab ",
+    "block_id": "minecraft:brick_slab"
+  },
+  {
+    "block_name": " Stone Brick Slab ",
+    "block_id": "minecraft:stone_brick_slab"
+  },
+  {
+    "block_name": " Nether Brick Slab ",
+    "block_id": "minecraft:nether_brick_slab"
+  },
+  {
+    "block_name": " Quartz Slab ",
+    "block_id": "minecraft:quartz_slab"
+  },
+  {
+    "block_name": " Red Sandstone Slab ",
+    "block_id": "minecraft:red_sandstone_slab"
+  },
+  {
+    "block_name": " Smooth Quartz ",
+    "block_id": "minecraft:smooth_quartz"
+  },
+  {
+    "block_name": " Smooth Stone ",
+    "block_id": "minecraft:smooth_stone"
+  },
+  {
+    "block_name": " Smooth Stone Slab ",
+    "block_id": "minecraft:smooth_stone_slab"
+  },
+  {
+    "block_name": " Cut Sandstone Slab ",
+    "block_id": "minecraft:cut_sandstone_slab"
+  },
+  {
+    "block_name": " Cut Red Sandstone Slab ",
+    "block_id": "minecraft:cut_red_sandstone_slab"
+  },
+  {
+    "block_name": " Polished Granite Slab ",
+    "block_id": "minecraft:polished_granite_slab"
+  },
+  {
+    "block_name": " Smooth Red Sandstone Slab ",
+    "block_id": "minecraft:smooth_red_sandstone_slab"
+  },
+  {
+    "block_name": " Mossy Stone Brick Slab ",
+    "block_id": "minecraft:mossy_stone_brick_slab"
+  },
+  {
+    "block_name": " Polished Diorite Slab ",
+    "block_id": "minecraft:polished_diorite_slab"
+  },
+  {
+    "block_name": " Mossy Cobblestone Slab ",
+    "block_id": "minecraft:mossy_cobblestone_slab"
+  },
+  {
+    "block_name": " End Stone Brick Slab ",
+    "block_id": "minecraft:end_stone_brick_slab"
+  },
+  {
+    "block_name": " Smooth Sandstone Slab ",
+    "block_id": "minecraft:smooth_sandstone_slab"
+  },
+  {
+    "block_name": " Smooth Quartz Slab ",
+    "block_id": "minecraft:smooth_quartz_slab"
+  },
+  {
+    "block_name": " Granite Slab ",
+    "block_id": "minecraft:granite_slab"
+  },
+  {
+    "block_name": " Andesite Slab ",
+    "block_id": "minecraft:andesite_slab"
+  },
+  {
+    "block_name": " Red Nether Brick Slab ",
+    "block_id": "minecraft:red_nether_brick_slab"
+  },
+  {
+    "block_name": " Polished Andesite Slab ",
+    "block_id": "minecraft:polished_andesite_slab"
+  },
+  {
+    "block_name": " Diorite Slab ",
+    "block_id": "minecraft:diorite_slab"
+  },
+  {
+    "block_name": " Crimson Slab ",
+    "block_id": "minecraft:crimson_slab"
+  },
+  {
+    "block_name": " Warped Slab ",
+    "block_id": "minecraft:warped_slab"
+  },
+  {
+    "block_name": " Blackstone Slab ",
+    "block_id": "minecraft:blackstone_slab"
+  },
+  {
+    "block_name": " Polished Blackstone Slab ",
+    "block_id": "minecraft:polished_blackstone_slab"
+  },
+  {
+    "block_name": " Polished Blackstone Brick Slab ",
+    "block_id": "minecraft:polished_blackstone_brick_slab"
+  },
+  {
+    "block_name": " White Concrete ",
+    "block_id": "minecraft:white_concrete"
+  },
+  {
+    "block_name": " Orange Concrete ",
+    "block_id": "minecraft:orange_concrete"
+  },
+  {
+    "block_name": " Magenta Concrete ",
+    "block_id": "minecraft:magenta_concrete"
+  },
+  {
+    "block_name": " Light Blue Concrete ",
+    "block_id": "minecraft:light_blue_concrete"
+  },
+  {
+    "block_name": " Yellow Concrete ",
+    "block_id": "minecraft:yellow_concrete"
+  },
+  {
+    "block_name": " Lime Concrete ",
+    "block_id": "minecraft:lime_concrete"
+  },
+  {
+    "block_name": " Pink Concrete ",
+    "block_id": "minecraft:pink_concrete"
+  },
+  {
+    "block_name": " Gray Concrete ",
+    "block_id": "minecraft:gray_concrete"
+  },
+  {
+    "block_name": " Light Gray Concrete ",
+    "block_id": "minecraft:light_gray_concrete"
+  },
+  {
+    "block_name": " Cyan Concrete ",
+    "block_id": "minecraft:cyan_concrete"
+  },
+  {
+    "block_name": " Purple Concrete ",
+    "block_id": "minecraft:purple_concrete"
+  },
+  {
+    "block_name": " Blue Concrete ",
+    "block_id": "minecraft:blue_concrete"
+  },
+  {
+    "block_name": " Brown Concrete ",
+    "block_id": "minecraft:brown_concrete"
+  },
+  {
+    "block_name": " Green Concrete ",
+    "block_id": "minecraft:green_concrete"
+  },
+  {
+    "block_name": " Red Concrete ",
+    "block_id": "minecraft:red_concrete"
+  },
+  {
+    "block_name": " Black Concrete ",
+    "block_id": "minecraft:black_concrete"
+  },
+  {
+    "block_name": " White Concrete Powder ",
+    "block_id": "minecraft:white_concrete_powder"
+  },
+  {
+    "block_name": " Orange Concrete Powder ",
+    "block_id": "minecraft:orange_concrete_powder"
+  },
+  {
+    "block_name": " Magenta Concrete Powder ",
+    "block_id": "minecraft:magenta_concrete_powder"
+  },
+  {
+    "block_name": " Light Blue Concrete Powder ",
+    "block_id": "minecraft:light_blue_concrete_powder"
+  },
+  {
+    "block_name": " Yellow Concrete Powder ",
+    "block_id": "minecraft:yellow_concrete_powder"
+  },
+  {
+    "block_name": " Lime Concrete Powder ",
+    "block_id": "minecraft:lime_concrete_powder"
+  },
+  {
+    "block_name": " Pink Concrete Powder ",
+    "block_id": "minecraft:pink_concrete_powder"
+  },
+  {
+    "block_name": " Gray Concrete Powder ",
+    "block_id": "minecraft:gray_concrete_powder"
+  },
+  {
+    "block_name": " Light Gray Concrete Powder ",
+    "block_id": "minecraft:light_gray_concrete_powder"
+  },
+  {
+    "block_name": " Cyan Concrete Powder ",
+    "block_id": "minecraft:cyan_concrete_powder"
+  },
+  {
+    "block_name": " Purple Concrete Powder ",
+    "block_id": "minecraft:purple_concrete_powder"
+  },
+  {
+    "block_name": " Blue Concrete Powder ",
+    "block_id": "minecraft:blue_concrete_powder"
+  },
+  {
+    "block_name": " Brown Concrete Powder ",
+    "block_id": "minecraft:brown_concrete_powder"
+  },
+  {
+    "block_name": " Green Concrete Powder ",
+    "block_id": "minecraft:green_concrete_powder"
+  },
+  {
+    "block_name": " Red Concrete Powder ",
+    "block_id": "minecraft:red_concrete_powder"
+  },
+  {
+    "block_name": " Black Concrete Powder ",
+    "block_id": "minecraft:black_concrete_powder"
+  },
+  {
+    "block_name": " White Banner ",
+    "block_id": "minecraft:white_banner"
+  },
+  {
+    "block_name": " Orange Banner ",
+    "block_id": "minecraft:orange_banner"
+  },
+  {
+    "block_name": " Magenta Banner ",
+    "block_id": "minecraft:magenta_banner"
+  },
+  {
+    "block_name": " Light Blue Banner ",
+    "block_id": "minecraft:light_blue_banner"
+  },
+  {
+    "block_name": " Yellow Banner ",
+    "block_id": "minecraft:yellow_banner"
+  },
+  {
+    "block_name": " Lime Banner ",
+    "block_id": "minecraft:lime_banner"
+  },
+  {
+    "block_name": " Pink Banner ",
+    "block_id": "minecraft:pink_banner"
+  },
+  {
+    "block_name": " Gray Banner ",
+    "block_id": "minecraft:gray_banner"
+  },
+  {
+    "block_name": " Light Gray Banner ",
+    "block_id": "minecraft:light_gray_banner"
+  },
+  {
+    "block_name": " Cyan Banner ",
+    "block_id": "minecraft:cyan_banner"
+  },
+  {
+    "block_name": " Purple Banner ",
+    "block_id": "minecraft:purple_banner"
+  },
+  {
+    "block_name": " Blue Banner ",
+    "block_id": "minecraft:blue_banner"
+  },
+  {
+    "block_name": " Brown Banner ",
+    "block_id": "minecraft:brown_banner"
+  },
+  {
+    "block_name": " Green Banner ",
+    "block_id": "minecraft:green_banner"
+  },
+  {
+    "block_name": " Red Banner ",
+    "block_id": "minecraft:red_banner"
+  },
+  {
+    "block_name": " Black Banner ",
+    "block_id": "minecraft:black_banner"
+  },
+  {
+    "block_name": " Banner Pattern ",
+    "block_id": "minecraft:piglin_banner_pattern"
+  },
+  {
+    "block_name": " Dead Tube Coral Block ",
+    "block_id": "minecraft:dead_tube_coral_block"
+  },
+  {
+    "block_name": " Dead Brain Coral Block ",
+    "block_id": "minecraft:dead_brain_coral_block"
+  },
+  {
+    "block_name": " Dead Bubble Coral Block ",
+    "block_id": "minecraft:dead_bubble_coral_block"
+  },
+  {
+    "block_name": " Dead Fire Coral Block ",
+    "block_id": "minecraft:dead_fire_coral_block"
+  },
+  {
+    "block_name": " Dead Horn Coral Block ",
+    "block_id": "minecraft:dead_horn_coral_block"
+  },
+  {
+    "block_name": " Tube Coral Block ",
+    "block_id": "minecraft:tube_coral_block"
+  },
+  {
+    "block_name": " Brain Coral Block ",
+    "block_id": "minecraft:brain_coral_block"
+  },
+  {
+    "block_name": " Bubble Coral Block ",
+    "block_id": "minecraft:bubble_coral_block"
+  },
+  {
+    "block_name": " Fire Coral Block ",
+    "block_id": "minecraft:fire_coral_block"
+  },
+  {
+    "block_name": " Horn Coral Block ",
+    "block_id": "minecraft:horn_coral_block"
+  },
+  {
+    "block_name": " Tube Coral ",
+    "block_id": "minecraft:tube_coral"
+  },
+  {
+    "block_name": " Brain Coral ",
+    "block_id": "minecraft:brain_coral"
+  },
+  {
+    "block_name": " Bubble Coral ",
+    "block_id": "minecraft:bubble_coral"
+  },
+  {
+    "block_name": " Fire Coral ",
+    "block_id": "minecraft:fire_coral"
+  },
+  {
+    "block_name": " Horn Coral ",
+    "block_id": "minecraft:horn_coral"
+  },
+  {
+    "block_name": " Tube Coral Fan ",
+    "block_id": "minecraft:tube_coral_fan"
+  },
+  {
+    "block_name": " Brain Coral Fan ",
+    "block_id": "minecraft:brain_coral_fan"
+  },
+  {
+    "block_name": " Bubble Coral Fan ",
+    "block_id": "minecraft:bubble_coral_fan"
+  },
+  {
+    "block_name": " Fire Coral Fan ",
+    "block_id": "minecraft:fire_coral_fan"
+  },
+  {
+    "block_name": " Horn Coral Fan ",
+    "block_id": "minecraft:horn_coral_fan"
+  },
+  {
+    "block_name": " Conduit ",
+    "block_id": "minecraft:conduit"
+  },
+  {
+    "block_name": " Scute ",
+    "block_id": "minecraft:scute"
+  },
+  {
+    "block_name": " Nautilus Shell ",
+    "block_id": "minecraft:nautilus_shell"
+  },
+  {
+    "block_name": " Heart of the Sea ",
+    "block_id": "minecraft:heart_of_the_sea"
+  },
+  {
+    "block_name": " Black Candle ",
+    "block_id": "minecraft:black_candle"
+  },
+  {
+    "block_name": " Blue Candle ",
+    "block_id": "minecraft:blue_candle"
+  },
+  {
+    "block_name": " Brown Candle ",
+    "block_id": "minecraft:brown_candle"
+  },
+  {
+    "block_name": " Candle ",
+    "block_id": "minecraft:candle"
+  },
+  {
+    "block_name": " Cyan Candle ",
+    "block_id": "minecraft:cyan_candle"
+  },
+  {
+    "block_name": " Gray Candle ",
+    "block_id": "minecraft:gray_candle"
+  },
+  {
+    "block_name": " Green Candle ",
+    "block_id": "minecraft:green_candle"
+  },
+  {
+    "block_name": " Light Blue Candle ",
+    "block_id": "minecraft:light_blue_candle"
+  },
+  {
+    "block_name": " Light Gray Candle ",
+    "block_id": "minecraft:light_gray_candle"
+  },
+  {
+    "block_name": " Lime Candle ",
+    "block_id": "minecraft:lime_candle"
+  },
+  {
+    "block_name": " Magenta Candle ",
+    "block_id": "minecraft:magenta_candle"
+  },
+  {
+    "block_name": " Orange Candle ",
+    "block_id": "minecraft:orange_candle"
+  },
+  {
+    "block_name": " Pink Candle ",
+    "block_id": "minecraft:pink_candle"
+  },
+  {
+    "block_name": " Purple Candle ",
+    "block_id": "minecraft:purple_candle"
+  },
+  {
+    "block_name": " Red Candle ",
+    "block_id": "minecraft:red_candle"
+  },
+  {
+    "block_name": " White Candle ",
+    "block_id": "minecraft:white_candle"
+  },
+  {
+    "block_name": " Yellow Candle ",
+    "block_id": "minecraft:yellow_candle"
+  }
+]
